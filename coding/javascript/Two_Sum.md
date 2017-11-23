@@ -44,8 +44,6 @@ nums[j] == target - nums[i]
 Solution에서는 Target과 뺀 값과 같은지 비교한다는 차이. 둘이 굳이 다를 것이 있나?
 
 Approach #2 (Two-pass Hash Table) [Accepted]
-Hash Table를 사용하였다.
-Target - nums[I] 의 값이 hash table에 있는지 체크한다.
 ```
 public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map = new HashMap<>();
@@ -61,10 +59,11 @@ public int[] twoSum(int[] nums, int target) {
     throw new IllegalArgumentException("No two sum solution");
 }
 ```
+Hash Table를 사용하였다.
+Target - nums[I] 의 값이 hash table에 있는지 체크한다.
 좋은 방법이군...
 
 Approach #3 (One-pass Hash Table) [Accepted]
-내 생각에는 참신했다.
 ```
 public int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> map = new HashMap<>();
@@ -77,8 +76,9 @@ public int[] twoSum(int[] nums, int target) {
     }
     throw new IllegalArgumentException("No two sum solution");
 ```
-한번의 반복문을 통해 target - num[I]의 값이 있으면 return, 없으면 put. 말 그대로 ‘one-pass’ 할 수 있는 방법이었다.
-굳.
+내 생각에는 참신했다.
+한번의 반복문을 통해 target - num[I]의 값이 있으면 return, 없으면 put.
+말 그대로 ‘one-pass’ 할 수 있는 방법이었다. 굳.
 
 ## End
 아직 손코딩, 뇌컴파일링, 눈디버깅은 나에게 쉽지 않은것 같다.
