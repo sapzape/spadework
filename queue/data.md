@@ -1,0 +1,84 @@
+신입 프로그래밍 공부법 - http://okky.kr/article/329269
+
+초보 개발자를 위한 스택 트레이스 읽는 법 - http://okky.kr/article/338405
+
+네임서버 동작 원리 - http://yoonperl.tistory.com/11
+
+예외 처리에 대한 6가지 이야기 - http://hamait.tistory.com/m/712
+
+성공적인 웹 개발자가 되기 위한 21단계 - http://woodforest.tistory.com/m/201
+
+남을 위한 코드 만들기 - https://m.blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220802345494&proxyReferer=&proxyReferer=http%3A%2F%2Fblog.naver.com%2Ftmondev%2F220802345494
+
+읽기 좋은 코드가 좋은 코드다 - http://epicdevs.com/m/9
+
+Performance Guide - https://github.com/haegul/performance-guide
+
+코드의 의존성을 분리하는 방법. - https://okky.kr/article/409329
+
+TDD 예제 (점진적으로 설계하기) - http://newy.tistory.com/entry/post-1
+
+크롬 개발자 도구를 이용한 프론트엔드 성능 측정 - http://shiren.github.io/2016-11-15-%ED%81%AC%EB%A1%AC%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%84%B1%EB%8A%A5%EC%B8%A1%EC%A0%95/
+
+자바스크립트 학습 방법 - https://blog.perfectacle.com/2017/08/08/js-how-to-learn/
+
+오픈소스의 네이밍 특징들 - https://brunch.co.kr/@goodvc78/12
+
+[B급 프로그래머] 코딩 실력을 개선하기 위한 확실한 방법: 코드 읽기 - http://jhrogue.blogspot.kr/2017/01/b.html?m=1
+
+초보 개발자에게 권장하는 객체지향 모델링 공부 방법 - https://okky.kr/article/358197
+
+오픈소스 프로젝트 가이드 라인 - https://okky.kr/article/358197
+
+Clean Code PHP - https://github.com/jupeter/clean-code-php
+
+Cheat sheet for using php web driver (facebook/webdriver) - https://gist.github.com/aczietlow/7c4834f79a7afd920d8f
+
+JUnit 만들어보기 - http://jojoldu.tistory.com/231
+
+프로덕트 스펙 문서 작성법 - https://webuildproduct.com/%EC%8A%A4%ED%8E%99-%EB%AC%B8%EC%84%9C-%EC%9E%91%EC%84%B1%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-ee61a1fc294f
+
+자바스크립트의 동작 원리 - https://joshua1988.github.io/web-development/translation/javascript/how-js-works-inside-engine/
+
+오픈 소스 가이드 (네이버) - https://naver.github.io/OpenSourceGuide/book/
+
+손코딩 뇌컴파일링 눈디버깅 - https://brunch.co.kr/@brunch4nrs/2
+
+내가 개발을 포기하지 않을 수 있었던 이유 - https://ansuchan.com/never-give-up/
+
+더 이상 배우려 하지 않는 개발자  - https://medium.com/@jwyeom63/%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%B0%B0%EC%9A%B0%EB%A0%A4-%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-expert-beginner%EC%9D%98-%EB%93%B1%EC%9E%A5-dd40c40aeedf
+
+개발자의 인생은 프로그램이다 - https://okky.kr/article/422741
+
+내가 대기업을 나온 이유 - https://brunch.co.kr/@rhodia/5
+
+깔끔한 코드 모음 - https://okky.kr/article/424723
+
+오픈소스를 쇼핑하는 엔지니어 - http://www.mobiinside.com/kr/2017/11/24/buzzvil-opensource/
+
+일본 현지 IT회사 합격 후기 - https://medium.com/@jwyeom63/%EC%9D%BC%EB%B3%B8-%ED%98%84%EC%A7%80-it%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-78e0911184ba
+
+Open Source Society University - https://github.com/ossu/computer-science
+
+칸 아카데미 - https://ko.khanacademy.org/
+
+Tistory에서 Jekyll을 이용하여 GitHub Pages로 블로그 이전 - http://blog.saltfactory.net/renewal-blog-from-tistory-to-github-pages-via-jekyll/
+
+학습에 실패한 이야기 - http://woowabros.github.io/experience/2017/12/11/how-to-study.html
+
+객체지향 생활 체조 - https://github.com/iamkyu/TIL/blob/master/object-calisthenics/object-calisthenics.md
+
+사회 초년생들에게 - https://okky.kr/article/430042
+
+내가 만나 본 일 잘하는 사람의 12가지 특징 - https://brunch.co.kr/@dryjshin/134
+
+AI 입문자용 글 모음 - https://www.facebook.com/groups/TensorFlowKR/permalink/490430184631378/
+
+2017년도 회고 - http://blog.devjoshua.me/2017/12/28/171228-2017%EB%85%84%ED%9A%8C%EA%B3%A0/
+
+[번역]쉬운 테스트 주도 개발과 단위 테스트를 위한 5단계 방법론 - https://medium.com/@cmygray/%EB%B2%88%EC%97%AD-%EC%89%AC%EC%9A%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EA%B0%9C%EB%B0%9C%EA%B3%BC-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-5%EB%8B%A8%EA%B3%84-%EB%B0%A9%EB%B2%95%EB%A1%A0-b82fea6c8d90
+
+파이썬 시작하기 TDD부터 PyPI에 배포까지 - https://www.holaxprogramming.com/2017/06/15/python-get-started/
+
+일 잘하는 방법 조목조목 따지기 - https://blog.naver.com/qnfdmlwks123/221175123429
+
