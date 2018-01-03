@@ -1,3 +1,19 @@
+우아한, WoowahanJS - http://woowabros.github.io/tools/2016/09/07/woowahan-js.html
+
+Git을 이용한 협업 워크플로우 배우기 - http://blog.appkr.kr/learn-n-think/comparing-workflows/
+
+탁월한 프론트엔드 엔지니어가 되는 법 - https://hyunseob.github.io/2016/02/21/how-to-become-a-great-frontend-engineer/
+
+jQuery Selector - http://www.dontorz.com/bbs/?mode=view&bbsid=study&ctg_cd=js&bltn_seq=88
+
+단수형을 단수형이라고 부르지 못하는 이유 - http://www.popit.kr/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EB%8B%A8%EC%88%98%ED%98%95%EC%9D%84-%EB%8B%A8%EC%88%98%ED%98%95%EC%9D%B4%EB%9D%BC-%EB%B6%80%EB%A5%B4%EC%A7%80-%EB%AA%BB%ED%95%98/
+
+성공적인 웹 개발자가 되기 위한 21단계 - http://woodforest.tistory.com/201
+
+남을 위한 코드 만들기 - http://blog.naver.com/tmondev/220802345494
+
+읽기 좋은 코드가 좋은 코드다 - http://epicdevs.com/9
+
 신입 프로그래밍 공부법 - http://okky.kr/article/329269
 
 초보 개발자를 위한 스택 트레이스 읽는 법 - http://okky.kr/article/338405
