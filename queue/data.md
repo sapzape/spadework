@@ -98,3 +98,12 @@ AI 입문자용 글 모음 - https://www.facebook.com/groups/TensorFlowKR/permal
 
 일 잘하는 방법 조목조목 따지기 - https://blog.naver.com/qnfdmlwks123/221175123429
 
+codility.com - https://www.codility.com/
+
+codility 소개 - http://kyejusung.com/2015/05/codility-com%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/
+
+좋은 사수에게 발견할 수 있는 5가지 특별함 - https://brunch.co.kr/@vigorous21/283
+
+가상화페 모의 투자 거래소 개발기 - https://velopert.com/3465
+
+어느 신입 개발자의 2017년 회고 - https://okky.kr/article/432879
