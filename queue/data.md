@@ -107,3 +107,15 @@ codility 소개 - http://kyejusung.com/2015/05/codility-com%EC%9D%84-%EC%86%8C%E
 가상화페 모의 투자 거래소 개발기 - https://velopert.com/3465
 
 어느 신입 개발자의 2017년 회고 - https://okky.kr/article/432879
+
+2017년 회고(outsider) - https://blog.outsider.ne.kr/1339
+
+내가 블로그에 글을 쓰는 과정 - https://blog.outsider.ne.kr/1269
+
+테스트 코드를 작성해야 하는 이유 - https://scalalang2.github.io/code/2018/01/03/why-do-we-have-to-write-a-test-code.html
+
+컴퓨터 과학(CS)을 공부하기 좋은 자료, 강의를 모은 Git Repo - https://github.com/ossu/computer-science
+
+Git Flow와 자주 사용되는 Git 명령어들 - https://www.holaxprogramming.com/2017/08/26/git-commands/
+
+이직초보 어느 개발자의 이력서 만들기 - http://woowabros.github.io/experience/2017/07/17/resume.html
