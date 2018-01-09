@@ -119,3 +119,9 @@ codility 소개 - http://kyejusung.com/2015/05/codility-com%EC%9D%84-%EC%86%8C%E
 Git Flow와 자주 사용되는 Git 명령어들 - https://www.holaxprogramming.com/2017/08/26/git-commands/
 
 이직초보 어느 개발자의 이력서 만들기 - http://woowabros.github.io/experience/2017/07/17/resume.html
+
+모두를 위한 머신러닝/딥러닝 강의 - https://hunkim.github.io/ml/
+
+Machine Learning 강의노트 - https://wikidocs.net/book/587
+
+골빈해커의 3분 딥러닝 (텐서플로맛) - https://github.com/golbin/TensorFlow-Tutorials
