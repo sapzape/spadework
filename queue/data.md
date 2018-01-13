@@ -125,3 +125,15 @@ Git Flow와 자주 사용되는 Git 명령어들 - https://www.holaxprogramming.
 Machine Learning 강의노트 - https://wikidocs.net/book/587
 
 골빈해커의 3분 딥러닝 (텐서플로맛) - https://github.com/golbin/TensorFlow-Tutorials
+
+머신러닝 (김성훈 교수님 강좌) 공부 정리 - http://pythonkim.tistory.com/6?category=573319
+
+텐서플로우 클러스터링 - https://tensorflow.blog/3-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-first-contact-with-tensorflow/
+
+TensorFlow의 기본 사용법 - https://codeonweb.com/entry/5f15bf8e-d704-49e0-909a-db4450433b74
+
+웹개발자 - 게임공학과 학생의 1년 회고 - https://okky.kr/article/435278
+
+2018년 주목할 JavaScript 트랜드 - https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425
+
+주피터 노트북 파이썬3 추가하기 - http://antilibrary.org/1483
