@@ -137,3 +137,28 @@ TensorFlow의 기본 사용법 - https://codeonweb.com/entry/5f15bf8e-d704-49e0-
 2018년 주목할 JavaScript 트랜드 - https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425
 
 주피터 노트북 파이썬3 추가하기 - http://antilibrary.org/1483
+
+파이썬으로 블록체인을 구현해보자(1) - https://blog.naver.com/pjt3591oo/221181592127
+
+파이썬으로 블록체인을 구현해보자(2) - https://blog.naver.com/pjt3591oo/221184971787
+
+tensorflow (OKdevTV) - https://okdevtv.com/mib/tensorflow
+
+데이터 사이언스 석사 - 이렇게 돌아간다 - https://pabii.co/data-science-masters/
+
+인프런에서 2017년 가장 인기있었던 무료 강좌 리스트 TOP 20 - https://www.facebook.com/inflearn/posts/1511134278982207
+
+확률통계 정리 (31장의 슬라이드) - http://statistics.zone/
+
+AI 논문에 나오슨 수학의 50%는 먹고 들어갈 정도로 많이 나오는 기호들 - http://www.deeplearningbook.org/contents/notation.html
+
+딥러닝 입문자 공부 코스(0. 소개) - https://www.facebook.com/groups/TensorFlowKR/permalink/485458151795248/
+
+딥러닝 입문자 공부 코스(1. 입문)  - https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
+
+딥러닝 입문자 공부 코스(2. 선형대수학 강좌) - https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3
+
+딥러닝 입문자 공부 코스(3. 확률통계 강좌) - http://www.kocw.net/home/search/kemView.do?kemId=1056974
+
+딥러닝 입문자 공부 코스(4. 탐색과 최적화) - http://www.kocw.net/home/search/kemView.do?kemId=1170523
+
