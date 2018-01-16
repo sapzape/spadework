@@ -167,3 +167,9 @@ AI 논문에 나오슨 수학의 50%는 먹고 들어갈 정도로 많이 나오
 [번역] 챗봇 제작 기술 선택을 위한 최상의 안내서 - https://brunch.co.kr/@hrcloser/1
 
 Jenkins & PHP, continuous integration tutorial - https://modess.io/jenkins-php/
+
+(*) Start your open-source career - https://blog.algolia.com/start-your-open-source-career/
+
+서비스 단계별로 개선하기 - https://spoqa.github.io/2017/12/19/step-by-step-deployment.html
+
+비트코인: 개인-대-개인간 전자 화폐 시스템 - https://encodent.com/wp/wp-content/uploads/2017/09/bitcoin-translated-korean-170927.pdf
