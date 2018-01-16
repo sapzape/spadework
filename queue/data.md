@@ -162,3 +162,8 @@ AI 논문에 나오슨 수학의 50%는 먹고 들어갈 정도로 많이 나오
 
 딥러닝 입문자 공부 코스(4. 탐색과 최적화) - http://www.kocw.net/home/search/kemView.do?kemId=1170523
 
+자바랑 자바스크립트랑 싸우면 누가 이길까? - https://taegon.kim/archives/6753
+
+[번역] 챗봇 제작 기술 선택을 위한 최상의 안내서 - https://brunch.co.kr/@hrcloser/1
+
+Jenkins & PHP, continuous integration tutorial - https://modess.io/jenkins-php/
