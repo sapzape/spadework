@@ -173,3 +173,11 @@ Jenkins & PHP, continuous integration tutorial - https://modess.io/jenkins-php/
 서비스 단계별로 개선하기 - https://spoqa.github.io/2017/12/19/step-by-step-deployment.html
 
 비트코인: 개인-대-개인간 전자 화폐 시스템 - https://encodent.com/wp/wp-content/uploads/2017/09/bitcoin-translated-korean-170927.pdf
+
+TensorFlow 시작하기 - https://gist.github.com/haje01/202ac276bace4b25dd3f
+
+2018 웹 개발자 로드맵 - https://github.com/kamranahmedse/developer-roadmap
+
+2018 웹 개발자 로드맵(번역본) - https://github.com/devJang/developer-roadmap
+
+소프트웨어 개발에서 우리의 핵심가치와 실천사항 - http://www.popit.kr/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%97%90%EC%84%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%ED%95%B5%EC%8B%AC%EA%B0%80%EC%B9%98%EC%99%80-%EC%8B%A4%EC%B2%9C%EC%82%AC%ED%95%AD/
