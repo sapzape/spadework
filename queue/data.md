@@ -185,3 +185,9 @@ TensorFlow 시작하기 - https://gist.github.com/haje01/202ac276bace4b25dd3f
 Tensorflow 관련 강좌 리스트 - https://github.com/HyegeunCho/study_tensorflow/wiki/%EA%B0%95%EC%A2%8C-%EB%A6%AC%EC%8A%A4%ED%8A%B8
 
 Machine Learning 강의 노트 - https://wikidocs.net/book/587
+
+딥러닝 논문 보는 순서 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+
+UX 디자인 베스트 문서 작성 사례 - https://brunch.co.kr/@ebprux/624
+
+개발자가 깨달은 스트레스 없는 직장생활에 대하여 - http://ppss.kr/archives/149593
