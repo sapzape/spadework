@@ -191,3 +191,48 @@ Machine Learning 강의 노트 - https://wikidocs.net/book/587
 UX 디자인 베스트 문서 작성 사례 - https://brunch.co.kr/@ebprux/624
 
 개발자가 깨달은 스트레스 없는 직장생활에 대하여 - http://ppss.kr/archives/149593
+
+기계학습 용어집 from 구글 (원문) - https://developers.google.com/machine-learning/glossary/?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4
+
+기계학습 용어집 from 구글 (번역) - https://www.codeonweb.com/@mookiekim/ml-glossary?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4
+
+[번역] 테스트를 작성하라. 너무 많이는 말고. 통합테스트를 많이 써라. - https://emaren84.github.io/posts/write-mostly-integration-test-kr/
+
+그래서, 자바스크립트 테스트가 뭔가요? - https://medium.com/@rinae/%EB%B2%88%EC%97%AD-%EA%B7%B8%EB%9E%98%EC%84%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%AD%94%EA%B0%80%EC%9A%94-63b41f96e7d7
+
+모니터링 하지 않는 DevOps 조직은 없다. - https://brunch.co.kr/@leedongins/33
+
+스팀잇-블록체인이 만드는 미래 - http://hyuni.me/2017/09/steemit/
+
+[블록체인] 파이썬으로 블록체인을 구현해보자 - 1 (블록생성, 트랜젝션 생성, POW, 마이닝) - https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221181592127
+
+자바스크립트는 어떻게 작동하는가: 메모리 관리 + 4가지 흔한 메모리 누수 대처법 - https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d
+
+KGC 2016: HTTPS 로 모바일 게임 서버 구축한다는 것- https://www.slideshare.net/XionglongJin1/https-kgc-2016-korea-games-conference
+
+텐서플로우 문서 한글 번역본 - https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/details
+
+TensorFlow 한글 문서 - https://tensorflowkorea.gitbooks.io/tensorflow-kr/
+
+텐서플로우 시작하기 - https://gist.github.com/haje01/202ac276bace4b25dd3f
+
+텐서플로우 기초 이해하기 - https://www.slideshare.net/dahlmoon/20160623-63318427
+
+텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면 - https://www.slideshare.net/carpedm20/ss-63116251
+
+기계학습 구현을 쉽게!··· 머신러닝 프레임워크 13종 - http://www.ciokorea.com/print/28347
+
+텐서플로우 시작하기 - http://www.popit.kr/%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0tensorflow-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/
+
+파이쿵 - http://pythonkim.tistory.com
+
+TENSORFLOW-TensorFlow-Mechanics-101 - 
+http://yujuwon.tistory.com/entry/TENSORFLOW-TensorFlow-Mechanics-101
+
+Softmax-Classification - http://alphago.pe.kr/entry/4-TensorFlow%EC%99%80-%EB%86%80%EC%9E%90-Softmax-Classification
+
+프로그래밍에서 인지 편향 - http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4
+
+누워서 보는 웹 어플리케이션 성능에 필요한 수학 1 - http://tech.whatap.io/2016/08/22/performance_math_1/
+
+누워서 보는 웹 어플리케이션 성능에 필요한 수학2 - http://tech.whatap.io/2016/11/30/granularity/
