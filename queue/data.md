@@ -235,4 +235,8 @@ Softmax-Classification - http://alphago.pe.kr/entry/4-TensorFlow%EC%99%80-%EB%86
 
 누워서 보는 웹 어플리케이션 성능에 필요한 수학 1 - http://tech.whatap.io/2016/08/22/performance_math_1/
 
-누워서 보는 웹 어플리케이션 성능에 필요한 수학2 - http://tech.whatap.io/2016/11/30/granularity/
+누워서 보는 웹 어플리케이션 성능2 다운 샘플링이 가져오는 왜곡 현상들 - http://tech.whatap.io/2016/11/30/granularity/
+
+Writing tests will make you happier - https://android.jlelse.eu/writing-tests-will-make-you-happier-ac3d160b0e32
+
+신입사원을 위한 웹서비스 확장 전략 - https://www.slideshare.net/mobile/charsyam2/webservice-scaling-for-newbie
