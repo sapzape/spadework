@@ -240,3 +240,5 @@ Softmax-Classification - http://alphago.pe.kr/entry/4-TensorFlow%EC%99%80-%EB%86
 Writing tests will make you happier - https://android.jlelse.eu/writing-tests-will-make-you-happier-ac3d160b0e32
 
 신입사원을 위한 웹서비스 확장 전략 - https://www.slideshare.net/mobile/charsyam2/webservice-scaling-for-newbie
+
+소스관리 참고(digital nomad) - https://github.com/NamsooCho
