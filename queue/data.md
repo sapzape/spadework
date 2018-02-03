@@ -242,3 +242,29 @@ Writing tests will make you happier - https://android.jlelse.eu/writing-tests-wi
 신입사원을 위한 웹서비스 확장 전략 - https://www.slideshare.net/mobile/charsyam2/webservice-scaling-for-newbie
 
 소스관리 참고(digital nomad) - https://github.com/NamsooCho
+
+딥러닝을 공부하는 방법 - https://www.facebook.com/dgtgrade/posts/1672920599433466
+
+개발자들을 위한 웹 사이트 모음 - https://www.codentalks.com/t/topic/40
+
+[야생의 땅: 듀랑고] 서버 아키텍처 - SPOF 없는 분산 MMORPG 서버 - https://www.slideshare.net/sublee/spof-mmorpg
+
+[야생의 땅: 듀랑고] 서버 아키텍처 Vol. 2 (자막) - https://www.slideshare.net/sublee/lt-vol-2?from_m_app=android
+
+웹 개발할 때 알아두면 좋은 리눅스 기본 명령어 - https://joshua1988.github.io/web-development/linux-commands-for-beginners/
+
+딥러닝에 필요한 수학 - http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
+
+딥러닝 스터디 정리자료(참고) - http://www.datamarket.kr/xe/board_LCmL04/26153
+
+(TensorFlow) Cross Entropy 정리 1 - https://taeoh-kim.github.io/blog/cross-entropy%EC%9D%98-%EC%A0%95%ED%99%95%ED%95%9C-%ED%99%95%EB%A5%A0%EC%A0%81-%EC%9D%98%EB%AF%B8/
+
+(TensorFlow) Cross Entropy 정리 2 - https://tensorflow.blog/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-3/
+
+(TensorFlow) Cross Entropy 정리 3 - https://ratsgo.github.io/deep%20learning/2017/09/24/loss/
+
+DCGAN 럭키짱 얼굴 생성 실험 - http://jsideas.net/python/2017/07/23/DCGAN_luckyZzang_experiment.html
+
+네이버 웹툰 ‘마주쳤다’에 적용된 GAN 기술 - https://www.naverlabs.com/storyDetail/44
+
+tensorflow로 moist 흉내내는 GAN 만들기 - http://jaynewho.com/post/2
