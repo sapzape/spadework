@@ -268,3 +268,54 @@ DCGAN 럭키짱 얼굴 생성 실험 - http://jsideas.net/python/2017/07/23/DCGA
 네이버 웹툰 ‘마주쳤다’에 적용된 GAN 기술 - https://www.naverlabs.com/storyDetail/44
 
 tensorflow로 moist 흉내내는 GAN 만들기 - http://jaynewho.com/post/2
+
+딥러닝 책 정리 자료 - https://www.facebook.com/groups/TensorFlowKR/permalink/451098461897884/
+
+명확한 코드 작성법 - http://webactually.com/2018/02/%EB%AA%85%ED%99%95%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EB%B2%95/
+
+백엔드와 프론트엔드 그리고 웹서버 - http://hpitos.tistory.com/10
+
+자바스크립트의 메모리관리 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management
+
+변화하는 웹 플랫폼 따라가기 - https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html
+
+프로그래밍에서 인지 편향 - http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html
+
+그들이 AWS 위에서 Kubernetes 를 운영하는 방법 - https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/edit#slide=id.g2443ed2bd7_0_340
+
+지연 방법, 지연 로드(Lazy-Load)와 IntersectionObserver의 동작 - https://github.com/nhnent/fe.javascript/wiki/January-22---January-26,-2018
+
+리액트 스토리북 - https://github.com/storybooks/storybook
+리액트 스토리북 소개 (한글) - https://www.vobour.com/
+
+프런트엔드 개발자가 되고 싶지 않았던 프런트엔드 개발자의 이직기 - https://milooy.wordpress.com/2018/02/07/moving-job/
+
+[번역] 그래서, 자바스크립트 테스트가 뭔가요? - https://emaren84.github.io/posts/what-is-testing-javascript-kr/
+
+[번역] 테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라. - https://emaren84.github.io/posts/write-mostly-integration-test-kr/
+
+[번역] 리덕스 앱을 저비용 고효율로 통합 테스트 하기 - https://emaren84.github.io/posts/integration-tests-in-redux-apps-kr/
+
+[번역] 리액트 + 리덕스 앱을 Jest와 Enzyme으로 테스트 하며 얻은 교훈 - https://emaren84.github.io/posts/lessons-learned-testing-react-redux-apps-with-jest-and-enzyme-kr/
+
+[번역] 테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라. - https://emaren84.github.io/posts/write-mostly-integration-test-kr/
+
+Java 개발자를 위한 Maven + SonarQube + Docker로 시작하는 코드 정적 분석 - http://www.popit.kr/java-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-maven-sonarqube-docker-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D/
+
+30살에 주니어 개발자가 된다는 것 (Being a Junior Developer at 30) - https://medium.com/@minoo/%EB%B2%88%EC%97%AD-30%EC%82%B4%EC%97%90-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C%EB%8B%A4%EB%8A%94-%EA%B2%83-being-a-junior-developer-at-30-b7b587ee4f6b
+
+React 애플리케이션 아키텍처 - 아무도 알려주지 않아서 혼자서 삽질했다. - https://www.slideshare.net/byungdaesohn/react-76078368
+
+나도 내가 뭘 말해야되는지 잘 모르겠어 (본격 스타트업 환상 부수기) - https://www.slideshare.net/LuckyYoWu/ss-81248676
+
+예비 프로개발자를 위한 조언 - https://okky.kr/article/442097
+
+고가용성과 관련된 패턴 정보 - https://github.com/binhnguyennus/awesome-scalability
+
+webservice scaling for newbie - https://www.slideshare.net/charsyam2/webservice-scaling-for-newbie
+
+NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월) - http://d2.naver.com/news/7119116
+
+NAVER Tech Talk: 개발 언어&방법 (2017년 5월~9월) - http://d2.naver.com/news/9972986
+
+[번역] Modern JavaScript Explained For Dinosaurs - https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/
