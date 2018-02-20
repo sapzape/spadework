@@ -319,3 +319,7 @@ NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월) - http://d2.naver.com
 NAVER Tech Talk: 개발 언어&방법 (2017년 5월~9월) - http://d2.naver.com/news/9972986
 
 [번역] Modern JavaScript Explained For Dinosaurs - https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/
+
+파이썬 생존 안내서 - https://www.slideshare.net/sublee/ss-67589513
+
+Culture of Quality: Measuring Code Coverage at Etsy - https://codeascraft.com/2018/02/15/culture-of-quality-measuring-code-coverage-at-etsy/
