@@ -323,3 +323,11 @@ NAVER Tech Talk: 개발 언어&방법 (2017년 5월~9월) - http://d2.naver.com/
 파이썬 생존 안내서 - https://www.slideshare.net/sublee/ss-67589513
 
 Culture of Quality: Measuring Code Coverage at Etsy - https://codeascraft.com/2018/02/15/culture-of-quality-measuring-code-coverage-at-etsy/
+
+Python Data Science Handbook - https://notebooks.azure.com/jakevdp/libraries/PythonDataScienceHandbook
+
+Creating a chat web app using Express.js, React.js & Socket.io - https://blog.cloudboost.io/creating-a-chat-web-app-using-express-js-react-js-socket-io-1b01100a8ea5
+
+A Killer Vue.js Blog Demo: Launch in 2 Hours Tops - https://snipcart.com/blog/vuejs-blog-demo
+
+How we do Vue: one year later - https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/
