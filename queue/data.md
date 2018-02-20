@@ -331,3 +331,5 @@ Creating a chat web app using Express.js, React.js & Socket.io - https://blog.cl
 A Killer Vue.js Blog Demo: Launch in 2 Hours Tops - https://snipcart.com/blog/vuejs-blog-demo
 
 How we do Vue: one year later - https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/
+
+An Overview of JavaScript Testing in 2018 - https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3
