@@ -333,3 +333,5 @@ A Killer Vue.js Blog Demo: Launch in 2 Hours Tops - https://snipcart.com/blog/vu
 How we do Vue: one year later - https://about.gitlab.com/2017/11/09/gitlab-vue-one-year-later/
 
 An Overview of JavaScript Testing in 2018 - https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3
+
+1000 개의 코드 리뷰를 통해 배운 점 - https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f
