@@ -337,3 +337,11 @@ An Overview of JavaScript Testing in 2018 - https://medium.com/welldone-software
 1000 개의 코드 리뷰를 통해 배운 점 - https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f
 
 [MySQL] 인덱스 정리 및 팁 - http://jojoldu.tistory.com/243
+
+효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은? - https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45
+
+Monitoring the performance of a Node.js web application - https://blog.sqreen.io/diy-node-apm/
+
+버즈빌 AWS 활용기 - http://www.mobiinside.com/kr/2018/02/23/buzzvil-aws/
+
+AWS에서 네트워크 공격 자동차단 하기 - http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html
