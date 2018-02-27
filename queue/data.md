@@ -347,3 +347,11 @@ Monitoring the performance of a Node.js web application - https://blog.sqreen.io
 AWS에서 네트워크 공격 자동차단 하기 - http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html
 
 내 안의 가짜를 부수고 진짜 사용자를 만나는 방법 - http://woowabros.github.io/experience/2018/02/22/usability-testing-in-baeminchan.html
+
+Amazon SageMaker BlazingText: 다중 CPU/GPU상에서 Word2Vec 알고리즘의 병렬 처리 - https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-blazingtext-parallelizing-word2vec-on-multiple-cpus-or-gpus/
+
+[AI Weekly Talk-16] 2018년 2월 넷째 주 AI 소식 - https://brunch.co.kr/@kakao-it/206
+
+When Postgres blocks: 7 tips for dealing with locks - https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/
+
+Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore - https://eng.uber.com/schemaless-rewrite/
