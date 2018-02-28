@@ -355,3 +355,17 @@ Amazon SageMaker BlazingText: 다중 CPU/GPU상에서 Word2Vec 알고리즘의 �
 When Postgres blocks: 7 tips for dealing with locks - https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/
 
 Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore - https://eng.uber.com/schemaless-rewrite/
+
+MySQL에서 'a' = 'a '가 true로 평가된다? - http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html
+
+10 Tips to Become a Better Node Developer in 2017 - https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/
+
+Storybook 입문 가이드 - https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/
+
+10 Most Awesome Hi-fi Prototypes of 2017 - https://blog.prototypr.io/10-most-awesome-hi-fi-prototypes-of-2017-3380a9362fd8
+
+당근마켓에서 딥러닝 활용하기 - https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62
+
+문제 해결을 위해 기업은 어떻게 데이터를 활용하고 있을까? - https://blog.naver.com/datageeks/221178720338
+
+[Webinar Recording] The Shifting Landscape of Mobile Test Automation and the Future of Appium - presented by Jonathan Lipps - http://testautomation.applitools.com/post/171319425187/webinar-recording-the-shifting-landscape-of
