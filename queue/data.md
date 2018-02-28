@@ -369,3 +369,7 @@ Storybook 입문 가이드 - https://hyunseob.github.io/2018/01/08/storybook-beg
 문제 해결을 위해 기업은 어떻게 데이터를 활용하고 있을까? - https://blog.naver.com/datageeks/221178720338
 
 [Webinar Recording] The Shifting Landscape of Mobile Test Automation and the Future of Appium - presented by Jonathan Lipps - http://testautomation.applitools.com/post/171319425187/webinar-recording-the-shifting-landscape-of
+
+코드 커버리지 80% 넘길 썰 - https://brunch.co.kr/@leehosung/43
+
+어떻게 하면 사람들이 즐겁게 테스트를 작성하도록 할 수 있을까? - http://www.moreagile.net/2015/01/LeadingaCultureofEffectiveTesting.html
