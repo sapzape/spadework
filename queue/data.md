@@ -381,3 +381,5 @@ Spock으로 테스트코드를 짜보자 - http://woowabros.github.io/study/2018
 gitHub와 Jenkins 연결하기 - http://bcho.tistory.com/1237
 
 비트코인 백서 - https://cryptokiwi.kr/currency?id=BTC&category=3&content_id=228
+
+Micro Service Architecture의 이해 - https://www.slideshare.net/Byungwook/micro-service-architecture-52233912
