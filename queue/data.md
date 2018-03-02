@@ -375,3 +375,9 @@ Storybook 입문 가이드 - https://hyunseob.github.io/2018/01/08/storybook-beg
 어떻게 하면 사람들이 즐겁게 테스트를 작성하도록 할 수 있을까? - http://www.moreagile.net/2015/01/LeadingaCultureofEffectiveTesting.html
 
 Clean Code PHP - 한글판 - https://github.com/yujineeee/clean-code-php
+
+Spock으로 테스트코드를 짜보자 - http://woowabros.github.io/study/2018/03/01/spock-test.html
+
+gitHub와 Jenkins 연결하기 - http://bcho.tistory.com/1237
+
+비트코인 백서 - https://cryptokiwi.kr/currency?id=BTC&category=3&content_id=228
