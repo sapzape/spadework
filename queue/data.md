@@ -383,3 +383,5 @@ gitHub와 Jenkins 연결하기 - http://bcho.tistory.com/1237
 비트코인 백서 - https://cryptokiwi.kr/currency?id=BTC&category=3&content_id=228
 
 Micro Service Architecture의 이해 - https://www.slideshare.net/Byungwook/micro-service-architecture-52233912
+
+Python 테스트 시작하기 - https://www.slideshare.net/hosunglee948/python-52222334
