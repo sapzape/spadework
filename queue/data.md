@@ -387,3 +387,33 @@ Micro Service Architecture의 이해 - https://www.slideshare.net/Byungwook/micr
 Python 테스트 시작하기 - https://www.slideshare.net/hosunglee948/python-52222334
 
 머신러닝 단기집중과정 - https://developers.google.com/machine-learning/crash-course
+
+컴퓨터를 만듭시다. 어때요~ 참 쉽죠? - https://kldp.org/node/109764
+
+Codeception unitest -  https://codeception.com/docs/05-UnitTests
+
+Codeception acceptance test - https://codeception.com/docs/03-AcceptanceTests
+
+10 Best Automated Testing Frameworks For PHP - https://www.hongkiat.com/blog/automated-php-test/
+
+Programming Notes for Professionals books - http://books.goalkicker.com/
+
+Scaling Uber to 1,000 Services - https://www.infoq.com/presentations/uber-scalability-services
+
+Kubernetes - https://www.slideshare.net/sangminpark1979/kubernetes-88700018
+
+[Book] 바지 벗고 일하면 안 되나요? - https://blog.outsider.ne.kr/1338
+
+뒤늦은 2017년 돌아보기 - 개발자 회고 - https://mooyoul.github.io/2018/02/10/a-lookback-at-2017/
+
+web 제작의 자동화가 진행! 이미지에서 자동 코딩하는 심층 학습 프로그램 공개 - https://ledge.ai/pix2code-on-floydhub/
+
+Turning Design Mockups Into Code With Deep Learning - https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+
+jQuery 보다 먼저 알았으면 좋았을 것들 - http://blog.jeonghwan.net/2018/01/25/before-jquery.html
+
+Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log - http://story.haezoom.com/?p=936
+
+IntelliJ의 .http를 사용해 Postman 대체하기 - http://jojoldu.tistory.com/266
+
+글쓰기를 도와주는 12가지 생산성 도구 - https://steemit.com/kr-writing/@nuhorizon/12
