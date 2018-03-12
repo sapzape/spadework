@@ -417,3 +417,9 @@ Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 com
 IntelliJ의 .http를 사용해 Postman 대체하기 - http://jojoldu.tistory.com/266
 
 글쓰기를 도와주는 12가지 생산성 도구 - https://steemit.com/kr-writing/@nuhorizon/12
+
+TDD는 벌거벗은 임금님의 투명옷인가? (1)TDD는 죽었다. 테스트여 영원하라! - http://www.moreagile.net/2014/05/IsTDDdead1.html
+
+TDD는 벌거벗은 임금님의 투명옷인가? (2)TDD의 사망에 대한 검증 - http://www.moreagile.net/2014/07/tdd-2-tdd.html
+
+TDD는 벌거벗은 임금님의 투명옷인가? (3)TDD는 UT가 아니다. - http://www.moreagile.net/2014/08/IsTDDdead3.html
