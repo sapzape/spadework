@@ -423,3 +423,5 @@ TDD는 벌거벗은 임금님의 투명옷인가? (1)TDD는 죽었다. 테스트
 TDD는 벌거벗은 임금님의 투명옷인가? (2)TDD의 사망에 대한 검증 - http://www.moreagile.net/2014/07/tdd-2-tdd.html
 
 TDD는 벌거벗은 임금님의 투명옷인가? (3)TDD는 UT가 아니다. - http://www.moreagile.net/2014/08/IsTDDdead3.html
+
+(생활코딩) 개발에 도움이 되는 웹사이트와 도구들 - https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304/
