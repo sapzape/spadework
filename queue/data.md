@@ -425,3 +425,13 @@ TDD는 벌거벗은 임금님의 투명옷인가? (2)TDD의 사망에 대한 검
 TDD는 벌거벗은 임금님의 투명옷인가? (3)TDD는 UT가 아니다. - http://www.moreagile.net/2014/08/IsTDDdead3.html
 
 (생활코딩) 개발에 도움이 되는 웹사이트와 도구들 - https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304/
+
+Hiptest - https://hiptest.net/
+
+QA 그리고 오해의 시선 - http://www.popit.kr/qa-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%A4%ED%95%B4%EC%9D%98-%EC%8B%9C%EC%84%A0/
+
+쿠버네티스를 이용해 테스팅 환경 구현해보기 - http://woowabros.github.io/experience/2018/03/13/k8s-test.html
+
+SKPlanet 추천 플랫폼 콜로세오 - https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet
+
+우리은행 차세대 연기 소식을 보는 다른 시각 - http://www.popit.kr/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%97%B0%EA%B8%B0-%EC%86%8C%EC%8B%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EB%8B%A4%EB%A5%B8-%EC%8B%9C%EA%B0%81/
