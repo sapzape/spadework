@@ -435,3 +435,5 @@ QA 그리고 오해의 시선 - http://www.popit.kr/qa-%EA%B7%B8%EB%A6%AC%EA%B3%
 SKPlanet 추천 플랫폼 콜로세오 - https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet
 
 우리은행 차세대 연기 소식을 보는 다른 시각 - http://www.popit.kr/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%97%B0%EA%B8%B0-%EC%86%8C%EC%8B%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EB%8B%A4%EB%A5%B8-%EC%8B%9C%EA%B0%81/
+
+2018 PwC-MINDs Lab Business Forum : AI-driven Digital Transformation 세미나 자료 - http://www.ibpos.co.kr/eDM/180313/thank_eDM.html
