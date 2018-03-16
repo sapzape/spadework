@@ -437,3 +437,19 @@ SKPlanet 추천 플랫폼 콜로세오 - https://www.slideshare.net/JaehoonJung/
 우리은행 차세대 연기 소식을 보는 다른 시각 - http://www.popit.kr/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%97%B0%EA%B8%B0-%EC%86%8C%EC%8B%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EB%8B%A4%EB%A5%B8-%EC%8B%9C%EA%B0%81/
 
 2018 PwC-MINDs Lab Business Forum : AI-driven Digital Transformation 세미나 자료 - http://www.ibpos.co.kr/eDM/180313/thank_eDM.html
+
+Developer Survey Results 2018 - https://insights.stackoverflow.com/survey/2018
+
+12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem) - https://brunch.co.kr/@svillustrated/13
+
+안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여 - http://woowabros.github.io/study/2018/03/05/sdp-sap.html
+
+왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나? - https://joshua1988.github.io/web-development/translation/why-43percent-devs-wanna-learn-vuejs/
+
+[야생의 땅: 듀랑고] 서버 아키텍처 - SPOF 없는 분산 MMORPG 서버 - https://www.slideshare.net/sublee/spof-mmorpg
+
+그들이 AWS 위에서 Kubernetes 를 운영하는 방법 - https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8/edit#slide=id.g2443ed2bd7_0_340
+
+Goroutines vs Threads - https://tech.ssut.me/2017/08/20/goroutine-vs-threads/
+
+서비스 단계별로 개선하기 - https://spoqa.github.io/2017/12/19/step-by-step-deployment.html
