@@ -459,3 +459,5 @@ A Most Simple PHP MVC Beginners Tutorial - http://requiremind.com/a-most-simple-
 awesome-python(주목할만한 파이썬 라이브러리 소개 페이지) - https://github.com/vinta/awesome-python
 
 awesome (주목할 만한 기술/징보 소개 페이지)- https://github.com/sindresorhus/awesome
+
+입사에 필요한 자바스크립트 기술 - https://youtu.be/VYqPToE_GxM
