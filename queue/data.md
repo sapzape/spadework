@@ -461,3 +461,5 @@ awesome-python(주목할만한 파이썬 라이브러리 소개 페이지) - htt
 awesome (주목할 만한 기술/징보 소개 페이지)- https://github.com/sindresorhus/awesome
 
 입사에 필요한 자바스크립트 기술 - https://youtu.be/VYqPToE_GxM
+
+내 코드를 자동으로 리뷰해준다면? ( by sonarQube ) - http://www.popit.kr/%EB%82%B4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%B7%B0%ED%95%B4%EC%A4%80%EB%8B%A4%EB%A9%B4-by-sonarqube/
