@@ -465,3 +465,5 @@ awesome (주목할 만한 기술/징보 소개 페이지)- https://github.com/si
 내 코드를 자동으로 리뷰해준다면? ( by sonarQube ) - http://www.popit.kr/%EB%82%B4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%B7%B0%ED%95%B4%EC%A4%80%EB%8B%A4%EB%A9%B4-by-sonarqube/
 
 Obey the Testing Goat - https://www.obeythetestinggoat.com/pages/book.html#toc
+
+Kudu를 이용한 빅데이터 다차원 분석 시스템 개발 - http://d2.naver.com/helloworld/9099561
