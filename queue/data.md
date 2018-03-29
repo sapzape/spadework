@@ -469,3 +469,5 @@ Obey the Testing Goat - https://www.obeythetestinggoat.com/pages/book.html#toc
 Kudu를 이용한 빅데이터 다차원 분석 시스템 개발 - http://d2.naver.com/helloworld/9099561
 
 NAVER Tech Talk: AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료, 금융, 데이터 - http://d2.naver.com/news/8228115
+
+Why Singletons have no use in PHP - http://blog.gordon-oheim.biz/2011-01-17-Why-Singletons-have-no-use-in-PHP/
