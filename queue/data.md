@@ -473,3 +473,5 @@ NAVER Tech Talk: AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료,
 Why Singletons have no use in PHP - http://blog.gordon-oheim.biz/2011-01-17-Why-Singletons-have-no-use-in-PHP/
 
 Testing with Codeception - https://www.slideshare.net/phpcodemonkey/testing-with-codeception
+
+Writing Better Tests: Riding The Command Bus - https://codeception.com/08-04-2017/writing-better-tests-riding-the-command-bus.html
