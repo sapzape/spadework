@@ -475,3 +475,5 @@ Why Singletons have no use in PHP - http://blog.gordon-oheim.biz/2011-01-17-Why-
 Testing with Codeception - https://www.slideshare.net/phpcodemonkey/testing-with-codeception
 
 Writing Better Tests: Riding The Command Bus - https://codeception.com/08-04-2017/writing-better-tests-riding-the-command-bus.html
+
+2018 DevOps Korea - https://docs.google.com/spreadsheets/d/1ubRthy9Rp46h7Uz4NtfMta7JusSHiFoixfZ3a6MpwY4/edit#gid=0
