@@ -477,3 +477,23 @@ Testing with Codeception - https://www.slideshare.net/phpcodemonkey/testing-with
 Writing Better Tests: Riding The Command Bus - https://codeception.com/08-04-2017/writing-better-tests-riding-the-command-bus.html
 
 2018 DevOps Korea - https://docs.google.com/spreadsheets/d/1ubRthy9Rp46h7Uz4NtfMta7JusSHiFoixfZ3a6MpwY4/edit#gid=0
+
+Github로 남의 프로젝트에 감놓고 배놓기 - http://dogfeet.github.io/articles/2012/how-to-github.html
+
+java 오픈소스 컨트리뷰션 샘플 프로젝트 - https://github.com/anthonycr/Grant
+
+angularjs 오픈소스 컨트리뷰션 샘플 프로젝트- https://github.com/dwmkerr/angular-modal-service
+
+개인 프로젝트 참고용 샘플 - https://github.com/ccoenraets/directory-react-nodejs
+
+해외 취업 실패 / 성공기 - http://hero0926.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/%ED%95%B4%EC%99%B8%20%EC%B7%A8%EC%97%85
+
+오픈소스 기여를 위한 GitHub 개념 정리. - http://guruble.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94-%EA%B2%83/
+
+naver 공개소프트웨어 소개 - https://github.com/naver/kaist-oss-course
+
+Voa Learning English(무료 영어 공부) - http://start42.tistory.com/167
+
+초보 개발자가 오픈소스에 기여하는 5단계 - http://www.bloter.net/archives/197960
+
+프로그래머가 알아야 할 기본 지식 - http://outliers.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D
