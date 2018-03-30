@@ -497,3 +497,7 @@ Voa Learning English(무료 영어 공부) - http://start42.tistory.com/167
 초보 개발자가 오픈소스에 기여하는 5단계 - http://www.bloter.net/archives/197960
 
 프로그래머가 알아야 할 기본 지식 - http://outliers.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D
+
+2018 Open Source Rookies of the Year - https://www.blackducksoftware.com/open-source-rookies-2018
+
+2018 Open Source Rookies of the Year(한글) - http://www.ciokorea.com/slideshow/37664
