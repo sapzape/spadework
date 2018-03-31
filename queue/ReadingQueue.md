@@ -19,7 +19,7 @@
 | 파이썬으로 블록체인을 구현해보자(2) | https://blog.naver.com/pjt3591oo/221184971787 | |
 | 자바랑 자바스크립트랑 싸우면 누가 이길까? | https://taegon.kim/archives/6753 | |
 | [번역] 챗봇 제작 기술 선택을 위한 최상의 안내서 | https://brunch.co.kr/@hrcloser/1 | |
-| 서비스를 단계별로 개선하기 | https://spoqa.github.io/2017/12/19/step-by-step-deployment.html | |
+| 서비스 단계별로 개선하기 | https://spoqa.github.io/2017/12/19/step-by-step-deployment.html | |
 | 비트코인: 개인-대-개인간 전자 화폐 시스템 | https://encodent.com/wp/wp-content/uploads/2017/09/bitcoin-translated-korean-170927.pdf | |
 | 모니터링 하지않는 DevOps 조직은 없다 | https://brunch.co.kr/@leedongins/33 | |
 | 스팀잇 - 블록체인이 만드는 미래 | http://hyuni.me/2017/09/steemit/ | |
@@ -54,6 +54,21 @@
 | 10 Tips to Become a Better Node Developer in 2017 | https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/ | |
 | STORYBOOK 입문 가이드 | https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/ | |
 | 10 Most Awesome Hi-fi Prototypes of 2017 | https://blog.prototypr.io/10-most-awesome-hi-fi-prototypes-of-2017-3380a9362fd8 | |
+| GitHub와 Jenkins 연결하기 | http://bcho.tistory.com/1237 | |
+| 비트코인 백서 | https://cryptokiwi.kr/currency?id=BTC&category=3&content_id=228 | |
+| 마이크로서비스 아키텍쳐의 이해 | https://www.slideshare.net/Byungwook/micro-service-architecture-52233912 | | 
+| Scaling Uber to 1,000 Services | https://www.infoq.com/presentations/uber-scalability-services | |
+| Kubernetes | https://www.slideshare.net/sangminpark1979/kubernetes-88700018 | |
+| Turning Design Mockups Into Code With Deep Learning | https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | |
+| jQuery 보다 먼저 알았으면 좋았을 것들 | http://blog.jeonghwan.net/2018/01/25/before-jquery.html | |
+| IntelliJ의 .http를 사용해 Postman 대체하기 | IntelliJ의 .http를 사용해 Postman 대체하기 | |
+| 쿠버네티스를 이용해 테스팅 환경 구현해보기 | http://woowabros.github.io/experience/2018/03/13/k8s-test.html | |
+| 왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나? | https://joshua1988.github.io/web-development/translation/why-43percent-devs-wanna-learn-vuejs/ | |
+| Goroutines vs Threads | https://tech.ssut.me/2017/08/20/goroutine-vs-threads/ | |
+| 내 코드를 자동으로 리뷰해준다면? ( by sonarQube ) | http://www.popit.kr/%EB%82%B4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%B7%B0%ED%95%B4%EC%A4%80%EB%8B%A4%EB%A9%B4-by-sonarqube/ | |
+| Kudu를 이용한 빅데이터 다차원 분석 시스템 개발 | http://d2.naver.com/helloworld/9099561 | |
+| 2018 DevOps Korea 발표자료 | https://docs.google.com/spreadsheets/d/1ubRthy9Rp46h7Uz4NtfMta7JusSHiFoixfZ3a6MpwY4/edit#gid=0 | |
+
 ### Software
 | Title | Link | Etc |
 | --- | --- | --- |
@@ -73,6 +88,14 @@
 | 명확한 코드 작성법 | http://webactually.com/2018/02/%EB%AA%85%ED%99%95%ED%95%9C-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EB%B2%95/ | |
 | 1000 개의 코드 리뷰를 통해 배운 점 | https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f | |
 | 효과적으로 TDD, 리팩토링, OOP를 연습하는 방법은 ? | https://medium.com/@codesquad_yoda/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-tdd-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-oop%EB%A5%BC-%EC%97%B0%EC%8A%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-7ecc9ddb5d45 | |
+| TDD는 벌거벗은 임금님의 투명옷인가? (1)TDD는 죽었다. 테스트여 영원하라! | http://www.moreagile.net/2014/05/IsTDDdead1.html | |
+| TDD는 벌거벗은 임금님의 투명옷인가? (2)TDD의 사망에 대한 검증 | http://www.moreagile.net/2014/07/tdd-2-tdd.html | |
+| TDD는 벌거벗은 임금님의 투명옷인가? (3)TDD는 UT가 아니다. | http://www.moreagile.net/2014/08/IsTDDdead3.html | |
+| 안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여 | http://woowabros.github.io/study/2018/03/05/sdp-sap.html | |
+| A Most Simple PHP MVC Beginners Tutorial | http://requiremind.com/a-most-simple-php-mvc-beginners-tutorial/ | |
+| Why Singletons have no use in PHP | http://blog.gordon-oheim.biz/2011-01-17-Why-Singletons-have-no-use-in-PHP/ | |
+| Writing Better Tests: Riding The Command Bus | https://codeception.com/08-04-2017/writing-better-tests-riding-the-command-bus.html | |
+| Obey the Testing Goat | https://www.obeythetestinggoat.com/pages/book.html#toc | |
 
 ### Developer
 | Title | Link | Etc |
@@ -94,6 +117,7 @@
 | 프로그래밍에서 인지 편향 | http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html?utm_medium=social&utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4 | |
 | 개발자들을 위한 웹 사이트 모음 | https://www.codentalks.com/t/topic/40 | |
 | 예비 프로개발자를 위한 조언 | https://okky.kr/article/442097 | |
+| 프로그래머가 알아야 할 기본 지식 | http://outliers.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D | |
 
 ### Open Source
 | Title | Link | Etc |
@@ -106,12 +130,14 @@
 | [버즈빌의 누구나 궁금해하는 개발 이야기] 오픈소스를 쇼핑하는 엔지니어 | http://www.mobiinside.com/kr/2017/11/24/buzzvil-opensource/ | |
 | Start Your Open Source Career | https://blog.algolia.com/start-your-open-source-career/ | |
 | 소스관리 참고(digital nomad) | https://github.com/NamsooCho | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| Git을 이용하여 텔레파시 통하는 팀 만들기 | http://story.haezoom.com/?p=936 | |
+| Github로 남의 프로젝트에 감놓고 배놓기 | http://dogfeet.github.io/articles/2012/how-to-github.html | |
+| java 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/anthonycr/Grant | |
+| angularjs 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/dwmkerr/angular-modal-service | |
+| 개인 프로젝트 참고용 샘플 | https://github.com/ccoenraets/directory-react-nodejs | |
+| 오픈소스 기여를 위한 GitHub 개념 정리. | http://guruble.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94-%EA%B2%83/ | |
+| naver 공개소프트웨어 소개 | https://github.com/naver/kaist-oss-course | |
+| 초보 개발자가 오픈소스에 기여하는 5단계 | http://www.bloter.net/archives/197960 | |
 
 ### Test
 | Title | Link | Etc |
@@ -125,9 +151,11 @@
 | Culture of Quality: Measuring Code Coverage at Etsy | https://codeascraft.com/2018/02/15/culture-of-quality-measuring-code-coverage-at-etsy/ | |
 | [Webinar Recording] The Shifting Landscape of Mobile Test Automation and the Future of Appium - presented by Jonathan Lipps | http://testautomation.applitools.com/post/171319425187/webinar-recording-the-shifting-landscape-of | |
 | 코드 커버리지 80% 넘길 썰 | https://brunch.co.kr/@leehosung/43 | |
-| | | |
-| | | |
-| | | |
+| 어떻게 하면 사람들이 즐겁게 테스트를 작성하도록 할 수 있을까? | http://www.moreagile.net/2015/01/LeadingaCultureofEffectiveTesting.html | |
+| Python 테스트 시작하기 | https://www.slideshare.net/hosunglee948/python-52222334 | |
+| 10 Best Automated Testing Frameworks For PHP | https://www.hongkiat.com/blog/automated-php-test/ | |
+| QA 그리고 오해의 시선 | http://www.popit.kr/qa-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%A4%ED%95%B4%EC%9D%98-%EC%8B%9C%EC%84%A0/ | |
+| Testing with Codeception | https://www.slideshare.net/phpcodemonkey/testing-with-codeception | |
 
 ### AI
 | Title | Link | Etc |
@@ -158,6 +186,10 @@
 | Python Data Science Handbook | https://notebooks.azure.com/jakevdp/libraries/PythonDataScienceHandbook | |
 | [AI Weekly Talk-16] 2018년 2월 넷째 주 AI 소식 | https://brunch.co.kr/@kakao-it/206 | |
 | 당근마켓에서 딥러닝 활용하기 | https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62 | |
+| 머신런이 단기집중과정 | https://developers.google.com/machine-learning/crash-course/ | |
+| 2018 PwC-MINDs Lab Business Forum : AI-driven Digital Transformation 세미나 자료 | http://www.ibpos.co.kr/eDM/180313/thank_eDM.html | |
+| NAVER Tech Talk: AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료, 금융, 데이터 | http://d2.naver.com/news/8228115 | |
+
 ### Etc
 | Title | Link | Etc |
 | --- | --- | --- |
@@ -168,6 +200,7 @@
 | 2017년도 회고 | http://blog.devjoshua.me/2017/12/28/171228-2017%EB%85%84%ED%9A%8C%EA%B3%A0/ | |
 | 2017년도 회고 (Outsider님) | https://blog.outsider.ne.kr/1339 | |
 | 웹개발자 → 게임공학과 학생의 1년 회고 | https://okky.kr/article/435278 | |
+| 뒤늦은 2017년 돌아보기 | https://mooyoul.github.io/2018/02/10/a-lookback-at-2017/ | |
 | codility | https://www.codility.com/ | |
 | 가상화페 모의 추자 거래소 개발기 | https://velopert.com/3465 | |
 | 내가 블로그에 글을 쓰는 과정 | https://blog.outsider.ne.kr/1269 | |
@@ -180,14 +213,15 @@
 | 본격 스타트업 환상 부수기 | https://www.slideshare.net/LuckyYoWu/ss-81248676 | |
 | 내 안의 가짜를 부수고 진짜 사용자를 만나는 방법 | http://woowabros.github.io/experience/2018/02/22/usability-testing-in-baeminchan.html | |
 | 문제 해결을 위해 기업은 어떻게 데이터를 활용하고 있을까? | https://blog.naver.com/datageeks/221178720338 | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| 컴퓨터를 만듭시다. 어때요~ 참 쉽죠? | https://kldp.org/node/109764 | |
+| Programming Notes for Professionals books | http://books.goalkicker.com/ | |
+| [Book] 바지 벗고 일하면 안 되나요? | https://blog.outsider.ne.kr/1338 | |
+| 글쓰기를 도와주는 12가지 생산성 도구 | https://steemit.com/kr-writing/@nuhorizon/12 | |
+| 개발에 도움이 되는 웹사이트와 도구들 | https://www.facebook.com/notes/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9/%EA%B0%9C%EB%B0%9C%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EB%8F%84%EA%B5%AC%EB%93%A4/417702378270304/ | |
+| 우리은행 차세대 연기 소식을 보는 다른 시각 | http://www.popit.kr/%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89-%EC%B0%A8%EC%84%B8%EB%8C%80-%EC%97%B0%EA%B8%B0-%EC%86%8C%EC%8B%9D%EC%9D%84-%EB%B3%B4%EB%8A%94-%EB%8B%A4%EB%A5%B8-%EC%8B%9C%EA%B0%81/ | |
+| 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem) | https://brunch.co.kr/@svillustrated/13 | |
+| awesome-python(주목할만한 파이썬 라이브러리 소개 페이지) | https://github.com/vinta/awesome-python | |
+| awesome (주목할 만한 기술/징보 소개 페이지) | https://github.com/sindresorhus/awesome | |
+| 입사에 필요한 자바스크립트 기술 | https://youtu.be/VYqPToE_GxM | |
+| 해외 취업 실패 / 성공기 | http://hero0926.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/%ED%95%B4%EC%99%B8%20%EC%B7%A8%EC%97%85 | |
+| Voa Learning English(무료 영어 공부) | http://start42.tistory.com/167 | |
