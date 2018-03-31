@@ -48,7 +48,12 @@
 | Monitoring the performance of a Node.js web application | https://blog.sqreen.io/diy-node-apm/ | |
 | 버즈빌 AWS 활용기 | http://www.mobiinside.com/kr/2018/02/23/buzzvil-aws/ | |
 | Amazon SageMaker BlazingText: 다중 CPU/GPU상에서 Word2Vec 알고리즘의 병렬 처리 | https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-blazingtext-parallelizing-word2vec-on-multiple-cpus-or-gpus/ | |
-
+| When Postgres blocks: 7 tips for dealing with locks | https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/ | |
+| Code Migration in Production: Rewriting the Sharding Layer of Uber’s Schemaless Datastore | https://eng.uber.com/schemaless-rewrite/ | |
+| MySQL에서 'a' = 'a '가 true로 평가된다? | http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html | |
+| 10 Tips to Become a Better Node Developer in 2017 | https://www.sitepoint.com/10-tips-to-become-a-better-node-developer/ | |
+| STORYBOOK 입문 가이드 | https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/ | |
+| 10 Most Awesome Hi-fi Prototypes of 2017 | https://blog.prototypr.io/10-most-awesome-hi-fi-prototypes-of-2017-3380a9362fd8 | |
 ### Software
 | Title | Link | Etc |
 | --- | --- | --- |
@@ -118,8 +123,8 @@
 | [번역] 그래서, 자바스크립트 테스트가 뭔가요? | https://emaren84.github.io/posts/what-is-testing-javascript-kr | |
 | Writing tests will make you happier | https://android.jlelse.eu/writing-tests-will-make-you-happier-ac3d160b0e32 | |
 | Culture of Quality: Measuring Code Coverage at Etsy | https://codeascraft.com/2018/02/15/culture-of-quality-measuring-code-coverage-at-etsy/ | |
-| | | |
-| | | |
+| [Webinar Recording] The Shifting Landscape of Mobile Test Automation and the Future of Appium - presented by Jonathan Lipps | http://testautomation.applitools.com/post/171319425187/webinar-recording-the-shifting-landscape-of | |
+| 코드 커버리지 80% 넘길 썰 | https://brunch.co.kr/@leehosung/43 | |
 | | | |
 | | | |
 | | | |
@@ -152,7 +157,7 @@
 | 딥러닝 책 정리 자료 | https://www.facebook.com/groups/TensorFlowKR/permalink/451098461897884/ | |
 | Python Data Science Handbook | https://notebooks.azure.com/jakevdp/libraries/PythonDataScienceHandbook | |
 | [AI Weekly Talk-16] 2018년 2월 넷째 주 AI 소식 | https://brunch.co.kr/@kakao-it/206 | |
-
+| 당근마켓에서 딥러닝 활용하기 | https://medium.com/n42-corp/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-3b48844eba62 | |
 ### Etc
 | Title | Link | Etc |
 | --- | --- | --- |
@@ -174,5 +179,15 @@
 | [번역] 30살에 주니어 개발자가 된다는 것 | https://medium.com/@minoo/%EB%B2%88%EC%97%AD-30%EC%82%B4%EC%97%90-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C%EB%8B%A4%EB%8A%94-%EA%B2%83-being-a-junior-developer-at-30-b7b587ee4f6b | |
 | 본격 스타트업 환상 부수기 | https://www.slideshare.net/LuckyYoWu/ss-81248676 | |
 | 내 안의 가짜를 부수고 진짜 사용자를 만나는 방법 | http://woowabros.github.io/experience/2018/02/22/usability-testing-in-baeminchan.html | |
+| 문제 해결을 위해 기업은 어떻게 데이터를 활용하고 있을까? | https://blog.naver.com/datageeks/221178720338 | |
 | | | |
-
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
