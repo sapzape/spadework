@@ -118,6 +118,7 @@
 | 개발자들을 위한 웹 사이트 모음 | https://www.codentalks.com/t/topic/40 | |
 | 예비 프로개발자를 위한 조언 | https://okky.kr/article/442097 | |
 | 프로그래머가 알아야 할 기본 지식 | http://outliers.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D | |
+| 신입 소프트웨어 엔지니어의 영문 이력서 작성 후기 | https://sujinlee.me/entry-level-en-resume/ | |
 
 ### Open Source
 | Title | Link | Etc |
