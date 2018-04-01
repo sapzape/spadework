@@ -227,3 +227,4 @@
 | 입사에 필요한 자바스크립트 기술 | https://youtu.be/VYqPToE_GxM | |
 | 해외 취업 실패 / 성공기 | http://hero0926.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/%ED%95%B4%EC%99%B8%20%EC%B7%A8%EC%97%85 | |
 | Voa Learning English(무료 영어 공부) | http://start42.tistory.com/167 | |
+| Interview_Question_for_Beginner | https://github.com/JaeYeopHan/Interview_Question_for_Beginner | |
