@@ -120,6 +120,7 @@
 | 프로그래머가 알아야 할 기본 지식 | http://outliers.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D | |
 | 신입 소프트웨어 엔지니어의 영문 이력서 작성 후기 | https://sujinlee.me/entry-level-en-resume/ | |
 | 깃허브(GitHub)로 취업하기 | https://sujinlee.me/professional-github/ | |
+| 2018년 웹 개발자가 되기 위한 로드맵 (번역) | https://github.com/devJang/developer-roadmap | |
 
 ### Open Source
 | Title | Link | Etc |
@@ -229,3 +230,4 @@
 | 해외 취업 실패 / 성공기 | http://hero0926.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/%ED%95%B4%EC%99%B8%20%EC%B7%A8%EC%97%85 | |
 | Voa Learning English(무료 영어 공부) | http://start42.tistory.com/167 | |
 | Interview_Question_for_Beginner | https://github.com/JaeYeopHan/Interview_Question_for_Beginner | |
+| HAMA 블로그 | http://hamait.tistory.com/ | |
