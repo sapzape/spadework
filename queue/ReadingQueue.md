@@ -158,6 +158,7 @@
 | 10 Best Automated Testing Frameworks For PHP | https://www.hongkiat.com/blog/automated-php-test/ | |
 | QA 그리고 오해의 시선 | http://www.popit.kr/qa-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%A4%ED%95%B4%EC%9D%98-%EC%8B%9C%EC%84%A0/ | |
 | Testing with Codeception | https://www.slideshare.net/phpcodemonkey/testing-with-codeception | |
+| 테스트 용이성(Testability) 향상을 위한 DI(Dependency Injection) | http://www.popit.kr/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9A%A9%EC%9D%B4%EC%84%B1testability-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-didependency-injection/ | |
 
 ### AI
 | Title | Link | Etc |
