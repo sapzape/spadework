@@ -68,6 +68,8 @@
 | 내 코드를 자동으로 리뷰해준다면? ( by sonarQube ) | http://www.popit.kr/%EB%82%B4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%B7%B0%ED%95%B4%EC%A4%80%EB%8B%A4%EB%A9%B4-by-sonarqube/ | |
 | Kudu를 이용한 빅데이터 다차원 분석 시스템 개발 | http://d2.naver.com/helloworld/9099561 | |
 | 2018 DevOps Korea 발표자료 | https://docs.google.com/spreadsheets/d/1ubRthy9Rp46h7Uz4NtfMta7JusSHiFoixfZ3a6MpwY4/edit#gid=0 | |
+| Johnny-Five | http://johnny-five.io/ | |
+| JAVA 8 에서 케이크 패턴 (Cake Pattern)을 사용해보자 | http://www.popit.kr/java-8-%EC%97%90%EC%84%9C-%EC%BC%80%EC%9D%B4%ED%81%AC-%ED%8C%A8%ED%84%B4cake-pattern%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/ | |
 
 ### Software
 | Title | Link | Etc |
@@ -96,6 +98,10 @@
 | Why Singletons have no use in PHP | http://blog.gordon-oheim.biz/2011-01-17-Why-Singletons-have-no-use-in-PHP/ | |
 | Writing Better Tests: Riding The Command Bus | https://codeception.com/08-04-2017/writing-better-tests-riding-the-command-bus.html | |
 | Obey the Testing Goat | https://www.obeythetestinggoat.com/pages/book.html#toc | |
+| Dependency Injection in PHP. Create your own DI container | http://krasimirtsonev.com/blog/article/Dependency-Injection-in-PHP-example-how-to-DI-create-your-own-dependency-injection-container | |
+| PHP DI Library | http://php-di.org/ | |
+| Composer korean docs | http://xpressengine.github.io/Composer-korean-docs/ | |
+| 일반적이고 복잡한 PHP 작업을 위한 짧고 실용적인 가이드 | http://www.meye.net/php-best-practices/ | |
 
 ### Developer
 | Title | Link | Etc |
@@ -121,6 +127,7 @@
 | 신입 소프트웨어 엔지니어의 영문 이력서 작성 후기 | https://sujinlee.me/entry-level-en-resume/ | |
 | 깃허브(GitHub)로 취업하기 | https://sujinlee.me/professional-github/ | |
 | 2018년 웹 개발자가 되기 위한 로드맵 (번역) | https://github.com/devJang/developer-roadmap | |
+| 좋은 개발팀을 만드는데 도움이 되는 자료 | https://github.com/leehosung/awesome-devteam | |
 
 ### Open Source
 | Title | Link | Etc |
@@ -160,6 +167,16 @@
 | QA 그리고 오해의 시선 | http://www.popit.kr/qa-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%A4%ED%95%B4%EC%9D%98-%EC%8B%9C%EC%84%A0/ | |
 | Testing with Codeception | https://www.slideshare.net/phpcodemonkey/testing-with-codeception | |
 | 테스트 용이성(Testability) 향상을 위한 DI(Dependency Injection) | http://www.popit.kr/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9A%A9%EC%9D%B4%EC%84%B1testability-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-didependency-injection/ | |
+
+### Codeception Test
+| Title | Link | Etc |
+| --- | --- | --- |
+| CakePHP module for Codeception | https://github.com/cakephp/codeception | |
+| Writing a custom Codeception module | https://jordaneldredge.com/blog/writing-a-custom-codeception-module/ | |
+| Generate step definitions from Codeception modules | https://github.com/lucatume/codeception-steppify | |
+| A Codeception module for managing test users on Drupal sites | https://github.com/ixis/codeception-module-drupal-user-registry | |
+| Override of WebDriver | https://github.com/joomla-projects/joomla-browser | |
+| PHP 패키지 만들고 composer 로 배포하기 | https://www.lesstif.com/pages/viewpage.action?pageId=36209479 | |
 
 ### AI
 | Title | Link | Etc |
