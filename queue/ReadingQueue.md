@@ -102,6 +102,7 @@
 | PHP DI Library | http://php-di.org/ | |
 | Composer korean docs | http://xpressengine.github.io/Composer-korean-docs/ | |
 | 일반적이고 복잡한 PHP 작업을 위한 짧고 실용적인 가이드 | http://www.meye.net/php-best-practices/ | |
+| Django 웹 프레임워크 학습용 샘플(Mozilla) | https://developer.mozilla.org/ko/docs/Learn/Server-side/Django | |
 
 ### Developer
 | Title | Link | Etc |
@@ -148,6 +149,7 @@
 | 오픈소스 기여를 위한 GitHub 개념 정리. | http://guruble.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94-%EA%B2%83/ | |
 | naver 공개소프트웨어 소개 | https://github.com/naver/kaist-oss-course | |
 | 초보 개발자가 오픈소스에 기여하는 5단계 | http://www.bloter.net/archives/197960 | |
+| git이 추적하지 않는 untracked files 한꺼번에 삭제하기 | https://blog.outsider.ne.kr/1164 | |
 
 ### Test
 | Title | Link | Etc |
