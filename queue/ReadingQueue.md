@@ -70,6 +70,16 @@
 | 2018 DevOps Korea 발표자료 | https://docs.google.com/spreadsheets/d/1ubRthy9Rp46h7Uz4NtfMta7JusSHiFoixfZ3a6MpwY4/edit#gid=0 | |
 | Johnny-Five | http://johnny-five.io/ | |
 | JAVA 8 에서 케이크 패턴 (Cake Pattern)을 사용해보자 | http://www.popit.kr/java-8-%EC%97%90%EC%84%9C-%EC%BC%80%EC%9D%B4%ED%81%AC-%ED%8C%A8%ED%84%B4cake-pattern%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/ | |
+| Machine Learning-Driven Bundling. The Future of JavaScript Tooling. | http://blog.mgechev.com/2018/03/18/machine-learning-data-driven-bundling-webpack-javascript-markov-chain-angular-react/ | |
+| 10x Performance Increases: Optimizing a Static Site | https://hackernoon.com/optimizing-a-static-site-d5ab6899f249 | |
+| Check out these useful ECMAScript 2015 (ES6) tips and tricks | https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377 | |
+| Introducing Jenkins X: a CI/CD solution for modern cloud applications on Kubernetes | https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/ | |
+| Migrating to Kubernetes with zero downtime: the why and how | https://blog.manifold.co/migrating-to-kubernetes-with-zero-downtime-the-why-and-how-d64ba9a92619 | |
+| Kubernetes 01 – Pod | https://blog.2dal.com/2018/03/28/kubernetes-01-pod/ | |
+| 깃허브, 라이선스 검사 툴 오픈소스화…개발 단계부터 의존성 검사 | http://www.itworld.co.kr/news/108649#csidx6d2fc5ac86ca35daa2da70f1081703e | |
+| appbaseio/dejavu | https://github.com/appbaseio/dejavu | |
+| TensorFlow.js | https://js.tensorflow.org/ | 관련 링크 : https://blog.outsider.ne.kr/1367 |
+| Getting started with Data Engineering | https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f | |
 
 ### Software
 | Title | Link | Etc |
@@ -212,6 +222,7 @@
 | 머신런이 단기집중과정 | https://developers.google.com/machine-learning/crash-course/ | |
 | 2018 PwC-MINDs Lab Business Forum : AI-driven Digital Transformation 세미나 자료 | http://www.ibpos.co.kr/eDM/180313/thank_eDM.html | |
 | NAVER Tech Talk: AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료, 금융, 데이터 | http://d2.naver.com/news/8228115 | |
+| Data Science. Intro | https://www.slideshare.net/zzsza/data-science-intro | |
 
 ### Etc
 | Title | Link | Etc |
