@@ -156,6 +156,9 @@
 | java 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/anthonycr/Grant | |
 | angularjs 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/dwmkerr/angular-modal-service | |
 | 개인 프로젝트 참고용 샘플 | https://github.com/ccoenraets/directory-react-nodejs | |
+| Java 기반 Backend or 빅데이터 저장 및 분석 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/NationalSecurityAgency/datawave | |
+| AI 주식 관련 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/achillesrasquinha/bulbea | |
+| Java + Javascript 오픈소스 컨트리뷰션 샘플 프로젝트 | https://github.com/datathings/greycat | |
 | 오픈소스 기여를 위한 GitHub 개념 정리. | http://guruble.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%98%EB%8A%94-%EA%B2%83/ | |
 | naver 공개소프트웨어 소개 | https://github.com/naver/kaist-oss-course | |
 | 초보 개발자가 오픈소스에 기여하는 5단계 | http://www.bloter.net/archives/197960 | |
