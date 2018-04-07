@@ -160,6 +160,7 @@
 | naver 공개소프트웨어 소개 | https://github.com/naver/kaist-oss-course | |
 | 초보 개발자가 오픈소스에 기여하는 5단계 | http://www.bloter.net/archives/197960 | |
 | git이 추적하지 않는 untracked files 한꺼번에 삭제하기 | https://blog.outsider.ne.kr/1164 | |
+| C compiler created in Python | https://github.com/ShivamSarodia/ShivyC | | 
 
 ### Test
 | Title | Link | Etc |
