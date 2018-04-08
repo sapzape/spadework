@@ -165,6 +165,7 @@
 | 초보 개발자가 오픈소스에 기여하는 5단계 | http://www.bloter.net/archives/197960 | |
 | git이 추적하지 않는 untracked files 한꺼번에 삭제하기 | https://blog.outsider.ne.kr/1164 | |
 | C compiler created in Python | https://github.com/ShivamSarodia/ShivyC | | 
+| [Book] 25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 | https://blog.outsider.ne.kr/1221 | |
 
 ### Test
 | Title | Link | Etc |
