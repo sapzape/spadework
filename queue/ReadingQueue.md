@@ -113,6 +113,13 @@
 | Composer korean docs | http://xpressengine.github.io/Composer-korean-docs/ | |
 | 일반적이고 복잡한 PHP 작업을 위한 짧고 실용적인 가이드 | http://www.meye.net/php-best-practices/ | |
 | Django 웹 프레임워크 학습용 샘플(Mozilla) | https://developer.mozilla.org/ko/docs/Learn/Server-side/Django | |
+| PHP The Right Way | http://modernpug.github.io/php-the-right-way | |
+| 디자인 패턴 (PHP The Right Way) | http://wafe.github.io/php-the-right-way/pages/Design-Patterns.html | |
+| grepcode | http://grepcode.com/ | 모든 java lib의 코드를 검색하고 클래스 내부를 볼 수 있는 사이트. 네이밍 짓기 어려울 때 참고. |
+| Java의 static, 득과 실, 어떻게 사용할 것인가? | http://blog.doortts.com/119 | |
+| Inversion of Control 컨테이너 (IoC Container)란? | http://vandbt.tistory.com/44 | |
+| Laravel IoC Container | https://www.laravel.co.kr/docs/4.x/ioc | |
+| 간단한 Service Container(PHP) | https://medium.com/tech-tajawal/dependency-injection-di-container-in-php-a7e5d309ccc6 | |
 
 ### Developer
 | Title | Link | Etc |
