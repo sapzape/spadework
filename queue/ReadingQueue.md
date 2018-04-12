@@ -80,6 +80,7 @@
 | appbaseio/dejavu | https://github.com/appbaseio/dejavu | |
 | TensorFlow.js | https://js.tensorflow.org/ | 관련 링크 : https://blog.outsider.ne.kr/1367 |
 | Getting started with Data Engineering | https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f | |
+| HTTP Analytics for 6M requests per second using ClickHouse | https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/ | |
 
 ### Software
 | Title | Link | Etc |
@@ -274,3 +275,4 @@
 | Voa Learning English(무료 영어 공부) | http://start42.tistory.com/167 | |
 | Interview_Question_for_Beginner | https://github.com/JaeYeopHan/Interview_Question_for_Beginner | |
 | HAMA 블로그 | http://hamait.tistory.com/ | |
+| 개발자 채용 시 기술검증 어떻게 할 것인가 | https://brunch.co.kr/@leehosung/47 | |
