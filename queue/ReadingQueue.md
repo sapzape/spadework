@@ -276,3 +276,12 @@
 | Interview_Question_for_Beginner | https://github.com/JaeYeopHan/Interview_Question_for_Beginner | |
 | HAMA 블로그 | http://hamait.tistory.com/ | |
 | 개발자 채용 시 기술검증 어떻게 할 것인가 | https://brunch.co.kr/@leehosung/47 | |
+
+### Temp (Blog 이전 관련)
+| Title | Link | Etc |
+| --- | --- | --- |
+| 티스토리 로컬 백업 참고 자료 1 | https://github.com/doortts/tistory-backup-extractor | |
+| 티스토리 로컬 백업 참고 자료 2 | http://blog.saltfactory.net/note/renewal-blog-from-tistory-to-github-pages-via-jekyll.html | |
+| 티스토리 로컬 백업 참고 자료 3 | http://www.sauru.so/blog/migration-from-tistory/ | |
+| 티스토리 로컬 백업 참고 자료 4 | https://github.com/johnjkjung/backup-blogpost | |
+| 정적 웹사이트 생성기 | https://www.staticgen.com/ | 참고 : https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-f7d35da1d49d |
