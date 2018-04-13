@@ -81,6 +81,7 @@
 | TensorFlow.js | https://js.tensorflow.org/ | 관련 링크 : https://blog.outsider.ne.kr/1367 |
 | Getting started with Data Engineering | https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f | |
 | HTTP Analytics for 6M requests per second using ClickHouse | https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/ | |
+| Top 10 popular php projects in github | https://boostlog.io/@sonuton/top-10-popular-php-projects-in-github-5ac483f25948f700959c9b54 | |
 
 ### Software
 | Title | Link | Etc |
@@ -121,6 +122,7 @@
 | Inversion of Control 컨테이너 (IoC Container)란? | http://vandbt.tistory.com/44 | |
 | Laravel IoC Container | https://www.laravel.co.kr/docs/4.x/ioc | |
 | 간단한 Service Container(PHP) | https://medium.com/tech-tajawal/dependency-injection-di-container-in-php-a7e5d309ccc6 | |
+| sample code for several design patterns in PHP | https://github.com/domnikl/DesignPatternsPHP | |
 
 ### Developer
 | Title | Link | Etc |
