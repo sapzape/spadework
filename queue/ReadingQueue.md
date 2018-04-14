@@ -149,6 +149,7 @@
 | 깃허브(GitHub)로 취업하기 | https://sujinlee.me/professional-github/ | |
 | 2018년 웹 개발자가 되기 위한 로드맵 (번역) | https://github.com/devJang/developer-roadmap | |
 | 좋은 개발팀을 만드는데 도움이 되는 자료 | https://github.com/leehosung/awesome-devteam | |
+| 엔지니어의 학습, 그리고 테스트 코드 | https://www.slideshare.net/ParkMijeong/ss-93808383 | |
 
 ### Open Source
 | Title | Link | Etc |
