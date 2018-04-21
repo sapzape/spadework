@@ -150,6 +150,10 @@
 | 2018년 웹 개발자가 되기 위한 로드맵 (번역) | https://github.com/devJang/developer-roadmap | |
 | 좋은 개발팀을 만드는데 도움이 되는 자료 | https://github.com/leehosung/awesome-devteam | |
 | 엔지니어의 학습, 그리고 테스트 코드 | https://www.slideshare.net/ParkMijeong/ss-93808383 | |
+| 엔지니어의 학습, 그리고 테스트 코드 | https://www.slideshare.net/ParkMijeong/ss-93808383 | |
+| 좋은 코드를 작성하고 있다는 징후 11가지 | http://www.itworld.co.kr/news/108939 | |
+| 사이드 프로젝트, 10년 간의 기록 part 1 | https://medium.com/@jungil.han/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-10%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-%ED%8C%8C%ED%8A%B8-1-63bc25f8dcfc | |
+| 프론트엔드 면접 문제 은행 | https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md | |
 
 ### Open Source
 | Title | Link | Etc |
