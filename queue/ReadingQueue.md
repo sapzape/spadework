@@ -61,7 +61,7 @@
 | Kubernetes | https://www.slideshare.net/sangminpark1979/kubernetes-88700018 | |
 | Turning Design Mockups Into Code With Deep Learning | https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/ | |
 | jQuery 보다 먼저 알았으면 좋았을 것들 | http://blog.jeonghwan.net/2018/01/25/before-jquery.html | |
-| IntelliJ의 .http를 사용해 Postman 대체하기 | IntelliJ의 .http를 사용해 Postman 대체하기 | |
+| IntelliJ의 .http를 사용해 Postman 대체하기 | http://jojoldu.tistory.com/266 | |
 | 쿠버네티스를 이용해 테스팅 환경 구현해보기 | http://woowabros.github.io/experience/2018/03/13/k8s-test.html | |
 | 왜 43%의 프론트엔드 개발자들은 Vue.js를 배우고 싶어하나? | https://joshua1988.github.io/web-development/translation/why-43percent-devs-wanna-learn-vuejs/ | |
 | Goroutines vs Threads | https://tech.ssut.me/2017/08/20/goroutine-vs-threads/ | |
