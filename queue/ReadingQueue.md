@@ -82,6 +82,7 @@
 | Getting started with Data Engineering | https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f | |
 | HTTP Analytics for 6M requests per second using ClickHouse | https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/ | |
 | Top 10 popular php projects in github | https://boostlog.io/@sonuton/top-10-popular-php-projects-in-github-5ac483f25948f700959c9b54 | |
+| 채팅 서비스를 설계하고 구현하는 과정 (React/Node.js) | https://okky.kr/article/459448 | |
 
 ### Software
 | Title | Link | Etc |
