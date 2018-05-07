@@ -226,6 +226,9 @@
 | QA 그리고 오해의 시선 | http://www.popit.kr/qa-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%A4%ED%95%B4%EC%9D%98-%EC%8B%9C%EC%84%A0/ | |
 | Testing with Codeception | https://www.slideshare.net/phpcodemonkey/testing-with-codeception | |
 | 테스트 용이성(Testability) 향상을 위한 DI(Dependency Injection) | http://www.popit.kr/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9A%A9%EC%9D%B4%EC%84%B1testability-%ED%96%A5%EC%83%81%EC%9D%84-%EC%9C%84%ED%95%9C-didependency-injection/ | |
+| 테스트 용이성(Testability) 향상을 위한 DI(Dependency Injection) | http://prostars.net/228 | |
+| [Webinar Recording] Deep-hacking Appium for Fun and Profit | https://applitools.com/blog/webinar-recording-deep-hacking-appium?utm_source=no-show&mkt_tok=eyJpIjoiTXpZMk1tSm1OMlEyTmpkaiIsInQiOiJraHpGd0pQcmRuVXJKWGNucWplc1pPXC94VnlYcWNhdU9aN1YxUGc2cFBSSWVRMWZvblVtMnorM1pLSlwvN2hubGhkVjJnM1BuOE9vZDBtRkJOck5UR3hMMkhaQUpQQXhJNmVGQ2VvWHRka3NPY0VET3ZPZFo3V0dRV050NHJwU1d1In0%3D | |
+| An Overview of Automated Testing for Developers | https://www.telerik.com/blogs/overview-of-automated-testing-for-developers | |
 
 ### Codeception Test
 | Title | Link | Etc |
