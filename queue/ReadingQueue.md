@@ -174,6 +174,12 @@
 | 좋은 코드를 작성하고 있다는 징후 11가지 | http://www.itworld.co.kr/news/108939 | |
 | 사이드 프로젝트, 10년 간의 기록 part 1 | https://medium.com/@jungil.han/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-10%EB%85%84%EC%9D%98-%EA%B8%B0%EB%A1%9D-%ED%8C%8C%ED%8A%B8-1-63bc25f8dcfc | |
 | 프론트엔드 면접 문제 은행 | https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/Translations/Korean/README.md | |
+| 그룹웨어(Spring 4 + MyBatis 3 + MariaDB 개발 | https://okky.kr/article/457940 | | 
+| Front-End Developer Handbook 2018 | https://frontendmasters.com/books/front-end-handbook/2018/ | |
+| 우아한형제들의 Developer Relations | http://woowabros.github.io/woowabros/2018/04/15/developer-relations.html | |
+| 실전 프론트엔드 개발 취직 & 이직 | https://www.slideshare.net/jayjin0427/feat-95042760 | |
+| [번역] 진실은 코드에 있다 | https://www.facebook.com/sda.re.kr/posts/1728899610486890 | |
+| Code Health : Understanding Code In Review | https://testing.googleblog.com/2018/05/code-health-understanding-code-in-review.html | |
 
 ### Open Source
 | Title | Link | Etc |
