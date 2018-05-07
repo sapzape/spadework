@@ -83,6 +83,25 @@
 | HTTP Analytics for 6M requests per second using ClickHouse | https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/ | |
 | Top 10 popular php projects in github | https://boostlog.io/@sonuton/top-10-popular-php-projects-in-github-5ac483f25948f700959c9b54 | |
 | 채팅 서비스를 설계하고 구현하는 과정 (React/Node.js) | https://okky.kr/article/459448 | |
+| 2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 | http://d2.naver.com/helloworld/3259111 | |
+| aws-summit-seoul-2018 | https://www.slideshare.net/awskorea/tag/aws-summit-seoul-2018 | |
+| Distributed architecture concepts I learned while building a large payments system | http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/ | |
+| Scaling Uber's Elasticsearch Clusters | https://www.infoq.com/presentations/uber-elasticsearch-clusters | |
+| Cloud-Native and Scalable Kafka Architecture | https://www.infoq.com/presentations/cloud-native-kafka-netflix | |
+| Elasticsearch Reference (elasticsearch 레퍼런스 한글번역본) | https://elasticsearch.oofbird.net/ | |
+| 마이크로 서비스(MSA)를 어떻게 나눌까? II |https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%82%98%EB%88%8C%EA%B9%8C-ii/ | |
+| Hello, Geo-fence! | http://woowabros.github.io/experience/2018/03/31/hello-geofence.html | |
+| 위챗페이 사용기 | https://estimastory.com/2018/03/30/wechatpay/ | |
+| 방법론 도입이 실패하는 이유 | http://agile.egloos.com/5906079 | |
+| 프로세스가 개발 문화를 이기기 어려운 이유 | http://www.allofsoftware.net/2018/04/blog-post_20.html | |
+| 파이썬으로 구현한 자바스크립트 해석기 | https://github.com/PiotrDabkowski/Js2Py | |
+| 동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기 | http://d2.naver.com/helloworld/5626759 | |
+| 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기::이창수::AWS Summit Seoul 2018 | https://www.slideshare.net/awskorea/aws-cloud-architecture-evolution-for-one-thousand-users-changsu-lee | |
+| 소스 정적 분석도구 SonarQube 리서칭 | https://medium.com/@cgpink/%EC%86%8C%EC%8A%A4-%EC%A0%95%EC%A0%81-%EB%B6%84%EC%84%9D%EB%8F%84%EA%B5%AC-sonarqube-%EB%A6%AC%EC%84%9C%EC%B9%AD-9d48fc62b01f | |
+| [번역] 액티브레코드 모델을 리팩토링하는 7가지 방법 | https://bluesh55.github.io/2016/09/28/refactor-fat-active-record-model/ | |
+| 내 서버에는 누가 들어오는 걸까 - Apache 액세스 로그를 Elastic Stack으로 분석하기 | http://d2.naver.com/helloworld/3585246 | | 
+| Tips for High Availability | https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c | |
+| WAS와 웹서버의 차이 | http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html | |
 
 ### Software
 | Title | Link | Etc |
