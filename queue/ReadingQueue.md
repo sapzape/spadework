@@ -318,6 +318,8 @@
 | Interview_Question_for_Beginner | https://github.com/JaeYeopHan/Interview_Question_for_Beginner | |
 | HAMA 블로그 | http://hamait.tistory.com/ | |
 | 개발자 채용 시 기술검증 어떻게 할 것인가 | https://brunch.co.kr/@leehosung/47 | |
+| 무료 기술 eBook 모음| https://github.com/TechBookHunter?tab=repositories | |
+| HOW-TO 를 모아둔 Github | https://github.com/danistefanovic/build-your-own-x | 무언가를 만들고 싶을 때 참고 |
 
 ### Temp (Blog 이전 관련)
 | Title | Link | Etc |
