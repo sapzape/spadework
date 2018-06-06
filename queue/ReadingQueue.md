@@ -102,6 +102,14 @@
 | 내 서버에는 누가 들어오는 걸까 - Apache 액세스 로그를 Elastic Stack으로 분석하기 | http://d2.naver.com/helloworld/3585246 | | 
 | Tips for High Availability | https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c | |
 | WAS와 웹서버의 차이 | http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html | |
+| 데브옵스 개발자들이 반길 무료 보안 툴 10 | http://www.boannews.com/media/view.asp?idx=70077&skind=D | |
+| 장애와 관련된 XtraBackup 적용기 | http://woowabros.github.io/experience/2018/05/28/billingjul.html | |
+} Lessons from Building Observability Tools at Netflix | https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17 | |
+| Full Cycle Developers at Netflix — Operate What You Build | https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249 | |
+| A cartoon intro to DNS over HTTPS | https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/ | 
+| 쿠팡의 MSA — Part 1 | https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61 |
+| 쿠팡의 MSA — Part 2 | https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-a31fc2d5a572 | 
+| 11번가 Spring Cloud 기반 MSA로의 전환 | http://readme.skplanet.com/?p=13933 |
 
 ### Software
 | Title | Link | Etc |
