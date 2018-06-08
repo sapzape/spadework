@@ -104,12 +104,16 @@
 | WAS와 웹서버의 차이 | http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html | |
 | 데브옵스 개발자들이 반길 무료 보안 툴 10 | http://www.boannews.com/media/view.asp?idx=70077&skind=D | |
 | 장애와 관련된 XtraBackup 적용기 | http://woowabros.github.io/experience/2018/05/28/billingjul.html | |
-} Lessons from Building Observability Tools at Netflix | https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17 | |
+| Lessons from Building Observability Tools at Netflix | https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17 | |
 | Full Cycle Developers at Netflix — Operate What You Build | https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249 | |
 | A cartoon intro to DNS over HTTPS | https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/ | 
 | 쿠팡의 MSA — Part 1 | https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61 |
 | 쿠팡의 MSA — Part 2 | https://medium.com/coupang-tech/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-a31fc2d5a572 | 
 | 11번가 Spring Cloud 기반 MSA로의 전환 | http://readme.skplanet.com/?p=13933 |
+| (번역) 아주 거대한 (자바스크립트) 어플리케이션을 구축하기 | https://medium.com/steady-study/%EB%B2%88%EC%97%AD-%EC%95%84%EC%A3%BC-%EA%B1%B0%EB%8C%80%ED%95%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3aa37fc45122 | |
+| 샤딩은 어떻게 동작하는가 (How Sharding Works 번역) | http://eminentstar.tistory.com/54 | |
+| 11 Javascript Utility Libraries You Should Know In 2018 | https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade | |
+| 파이썬 개발환경 구성하기의 끝판왕 - Docker Compose | https://www.slideshare.net/raccoonyy/docker-compose-98851170 | |
 
 ### Software
 | Title | Link | Etc |
@@ -188,6 +192,7 @@
 | 실전 프론트엔드 개발 취직 & 이직 | https://www.slideshare.net/jayjin0427/feat-95042760 | |
 | [번역] 진실은 코드에 있다 | https://www.facebook.com/sda.re.kr/posts/1728899610486890 | |
 | Code Health : Understanding Code In Review | https://testing.googleblog.com/2018/05/code-health-understanding-code-in-review.html | |
+| 프로그래머로서의 성장을 도왔던 태도들 | http://ahnheejong.name/articles/becoming-better-programmer/ | |
 
 ### Open Source
 | Title | Link | Etc |
@@ -243,6 +248,7 @@
 | 테스트 용이성(Testability) 향상을 위한 DI(Dependency Injection) | http://prostars.net/228 | |
 | [Webinar Recording] Deep-hacking Appium for Fun and Profit | https://applitools.com/blog/webinar-recording-deep-hacking-appium?utm_source=no-show&mkt_tok=eyJpIjoiTXpZMk1tSm1OMlEyTmpkaiIsInQiOiJraHpGd0pQcmRuVXJKWGNucWplc1pPXC94VnlYcWNhdU9aN1YxUGc2cFBSSWVRMWZvblVtMnorM1pLSlwvN2hubGhkVjJnM1BuOE9vZDBtRkJOck5UR3hMMkhaQUpQQXhJNmVGQ2VvWHRka3NPY0VET3ZPZFo3V0dRV050NHJwU1d1In0%3D | |
 | An Overview of Automated Testing for Developers | https://www.telerik.com/blogs/overview-of-automated-testing-for-developers | |
+| [번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법 | https://adhrinae.github.io/posts/react-testing-tutorial-kr/ | |
 
 ### Codeception Test
 | Title | Link | Etc |
