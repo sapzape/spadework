@@ -114,6 +114,15 @@
 | 샤딩은 어떻게 동작하는가 (How Sharding Works 번역) | http://eminentstar.tistory.com/54 | |
 | 11 Javascript Utility Libraries You Should Know In 2018 | https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade | |
 | 파이썬 개발환경 구성하기의 끝판왕 - Docker Compose | https://www.slideshare.net/raccoonyy/docker-compose-98851170 | |
+| 결제 시스템 성능, 부하, 스트레스 테스트 | http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html | |
+| CORS | https://frontendian.co/cors | |
+| Bash shell online book | https://mug896.github.io/bash-shell/index.html | |
+| How Browsers Work: Behind the scenes of modern web browsers | https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ | |
+| json-server  | https://github.com/typicode/json-server | |
+| Yelp's Secret Detector: Preventing Secrets in Source Code | https://engineeringblog.yelp.com/amp/2018/06/yelps-secret-detector.html | |
+| Open Source Database HA Resources From Severalnines | http://highscalability.com/blog/2018/6/8/open-source-database-ha-resources-from-severalnines.html | |
+| Keep Tests Focused | https://testing.googleblog.com/2018/06/testing-on-toilet-keep-tests-focused.html | |
+| Scaling Collective Code Ownership with Code Reviews | https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews | |
 
 ### Software
 | Title | Link | Etc |
@@ -193,6 +202,12 @@
 | [번역] 진실은 코드에 있다 | https://www.facebook.com/sda.re.kr/posts/1728899610486890 | |
 | Code Health : Understanding Code In Review | https://testing.googleblog.com/2018/05/code-health-understanding-code-in-review.html | |
 | 프로그래머로서의 성장을 도왔던 태도들 | http://ahnheejong.name/articles/becoming-better-programmer/ | |
+| Linux - 시스템 관리 : 시스템 부하 체크 | http://develop.sunshiny.co.kr/951 | |
+| Linux Server monitoring 정리 1. top | http://blog.leekyoungil.com/?p=98 | |
+| Linux Server monitoring 정리 2. vmstat | http://blog.leekyoungil.com/?p=107 | |
+| Linux Server monitoring 정리 3. df du | http://blog.leekyoungil.com/?p=114 | |
+| Linux Server monitoring 정리 4. iostat | http://blog.leekyoungil.com/?p=118 | |
+| [후기] SI / 대기업에서 스타트업으로 이직하기 | https://okky.kr/article/470785 | |
 
 ### Open Source
 | Title | Link | Etc |
