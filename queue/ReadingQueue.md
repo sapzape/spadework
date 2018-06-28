@@ -123,6 +123,7 @@
 | Open Source Database HA Resources From Severalnines | http://highscalability.com/blog/2018/6/8/open-source-database-ha-resources-from-severalnines.html | |
 | Keep Tests Focused | https://testing.googleblog.com/2018/06/testing-on-toilet-keep-tests-focused.html | |
 | Scaling Collective Code Ownership with Code Reviews | https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews | |
+| 설레발 주도 개발 | https://lazygyu.net/blog/hype_driven_development | |
 
 ### Software
 | Title | Link | Etc |
@@ -164,6 +165,7 @@
 | Laravel IoC Container | https://www.laravel.co.kr/docs/4.x/ioc | |
 | 간단한 Service Container(PHP) | https://medium.com/tech-tajawal/dependency-injection-di-container-in-php-a7e5d309ccc6 | |
 | sample code for several design patterns in PHP | https://github.com/domnikl/DesignPatternsPHP | |
+| [번역] 10가지 소프트웨어 아키텍처 패턴 요약  | https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/ | |
 
 ### Developer
 | Title | Link | Etc |
