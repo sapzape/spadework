@@ -124,6 +124,10 @@
 | Keep Tests Focused | https://testing.googleblog.com/2018/06/testing-on-toilet-keep-tests-focused.html | |
 | Scaling Collective Code Ownership with Code Reviews | https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews | |
 | 설레발 주도 개발 | https://lazygyu.net/blog/hype_driven_development | |
+| 콘퍼런스 참가 신청 기능 개발기 | https://d2.naver.com/helloworld/5048491 | |
+| MySQL Ascending index vs Descending index | http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/ | |
+| 라이더스 개발팀 모바일에서 CI/CD 도입 | http://woowabros.github.io/experience/2018/06/26/bros-cicd.html | |
+| React 서버사이드 렌더링 | https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/ | |
 
 ### Software
 | Title | Link | Etc |
