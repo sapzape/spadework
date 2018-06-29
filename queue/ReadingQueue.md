@@ -129,6 +129,7 @@
 | 라이더스 개발팀 모바일에서 CI/CD 도입 | http://woowabros.github.io/experience/2018/06/26/bros-cicd.html | |
 | React 서버사이드 렌더링 | https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/ | |
 | 2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript | https://d2.naver.com/helloworld/5644368 | |
+| Docker and Your Path to a Better Staging Environment | https://applitools.com/blog/webinar-recording-docker-and-your-path-to-a-better-staging-environment | |
 
 ### Software
 | Title | Link | Etc |
