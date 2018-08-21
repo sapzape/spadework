@@ -231,6 +231,7 @@
 | Linux Server monitoring 정리 3. df du | http://blog.leekyoungil.com/?p=114 | |
 | Linux Server monitoring 정리 4. iostat | http://blog.leekyoungil.com/?p=118 | |
 | [후기] SI / 대기업에서 스타트업으로 이직하기 | https://okky.kr/article/470785 | |
+| 2018 개발자 추천 블로그 10선 | https://www.huskyhoochu.com/suggested-blogs | |
 
 ### Open Source
 | Title | Link | Etc |
@@ -252,6 +253,8 @@
 | git이 추적하지 않는 untracked files 한꺼번에 삭제하기 | https://blog.outsider.ne.kr/1164 | |
 | C compiler created in Python | https://github.com/ShivamSarodia/ShivyC | | 
 | [Book] 25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 | https://blog.outsider.ne.kr/1221 | |
+| 오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 | https://okky.kr/article/491445 | |
+| 오픈 소스 사용 매뉴얼 | https://okky.kr/article/491555 | |
 
 ### Open Source Contribution Consideration List
 | Title | Link | Etc |
