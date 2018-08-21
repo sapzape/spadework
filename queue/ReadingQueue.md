@@ -144,7 +144,7 @@
 | Vim은 어디서 왔나 | https://blog.koriel.kr/where-vim-came-from/ | | 
 | Bash 입문자를 위한 핵심 요약 정리 (Shell Script) | https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1 | | 
 | Django 튜토리얼 소스코드를 | https://github.com/aiacademy131/django-tutorial | |
-| heroku | https://www.huskyhoochu.com/suggested-blogs | |
+| heroku | https://www.heroku.com/ | |
 
 ### Software
 | Title | Link | Etc |
