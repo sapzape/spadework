@@ -131,6 +131,20 @@
 | 2018년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript | https://d2.naver.com/helloworld/5644368 | |
 | Docker and Your Path to a Better Staging Environment | https://applitools.com/blog/webinar-recording-docker-and-your-path-to-a-better-staging-environment | |
 | GUI Testing Powered by Deep Learning | https://www.ebayinc.com/stories/blogs/tech/gui-testing-powered-by-deep-learning/ | |
+| models 족보 구현 | https://okky.kr/article/474425 | |
+| [번역] 10가지 소프트웨어 아키텍처 패턴 요약 | https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell/? utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social | |
+| Hype Driven Development - 설레발 주도 개발 | https://lazygyu.net/blog/hype_driven_development?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social | |
+| 8년째 같은 제품을 만들고 있습니다 | https://speakerdeck.com/ridi/8nyeonjjae-gateun-jepumeul-mandeulgo-issseubnida?slide=3 | |
+| ‘TDD 실천법과 도구’ 책 전체를 PDF 공개합니다 | https://repo.yona.io/doortts/blog/issue/1 | |
+| Web Architecture 101-  VideoBlocks Product & Engineering | https://engineering.videoblocks.com/web-architecture-101-a3224e126947 | |
+| Lumen - PHP Micro-Framework By Laravel | https://lumen.laravel.com/ | |
+| Repository and Unit of Work 디자인 패턴을 이용한 TDD | https://justhackem.wordpress.com/2014/05/25/tdd-using-repository-uow/ | |
+| [MySQL] MySQL 실행 계획 | http://12bme.tistory.com/160 | | 
+| 개발 노하우.. | https://okky.kr/article/489929 | | 
+| Vim은 어디서 왔나 | https://blog.koriel.kr/where-vim-came-from/ | | 
+| Bash 입문자를 위한 핵심 요약 정리 (Shell Script) | https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1 | | 
+| Django 튜토리얼 소스코드를 | https://github.com/aiacademy131/django-tutorial | |
+| heroku | https://www.huskyhoochu.com/suggested-blogs | |
 
 ### Software
 | Title | Link | Etc |
