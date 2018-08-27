@@ -145,6 +145,9 @@
 | Bash 입문자를 위한 핵심 요약 정리 (Shell Script) | https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1 | | 
 | Django 튜토리얼 소스코드를 | https://github.com/aiacademy131/django-tutorial | |
 | heroku | https://www.heroku.com/ | |
+| How to scale Microservices with Message Queues, Spring Boot, and Kubernetes | https://medium.freecodecamp.org/how-to-scale-microservices-with-message-queues-spring-boot-and-kubernetes-f691b7ba3acf | |
+| Effectively communicate between Microservices | https://itnext.io/effectively-communicate-between-microservices-de7252ba2f3c | |
+| Agile Gone Wrong | https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0 | |
 
 ### Software
 | Title | Link | Etc |
