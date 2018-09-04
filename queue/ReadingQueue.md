@@ -235,6 +235,7 @@
 | Linux Server monitoring 정리 4. iostat | http://blog.leekyoungil.com/?p=118 | |
 | [후기] SI / 대기업에서 스타트업으로 이직하기 | https://okky.kr/article/470785 | |
 | 2018 개발자 추천 블로그 10선 | https://www.huskyhoochu.com/suggested-blogs | |
+| 초보 개발자를 위한 디버깅 방법 소개 | https://okky.kr/article/272227 | |
 
 ### Open Source
 | Title | Link | Etc |
