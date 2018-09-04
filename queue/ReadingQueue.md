@@ -293,6 +293,7 @@
 | [Webinar Recording] Deep-hacking Appium for Fun and Profit | https://applitools.com/blog/webinar-recording-deep-hacking-appium?utm_source=no-show&mkt_tok=eyJpIjoiTXpZMk1tSm1OMlEyTmpkaiIsInQiOiJraHpGd0pQcmRuVXJKWGNucWplc1pPXC94VnlYcWNhdU9aN1YxUGc2cFBSSWVRMWZvblVtMnorM1pLSlwvN2hubGhkVjJnM1BuOE9vZDBtRkJOck5UR3hMMkhaQUpQQXhJNmVGQ2VvWHRka3NPY0VET3ZPZFo3V0dRV050NHJwU1d1In0%3D | |
 | An Overview of Automated Testing for Developers | https://www.telerik.com/blogs/overview-of-automated-testing-for-developers | |
 | [번역] 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법 | https://adhrinae.github.io/posts/react-testing-tutorial-kr/ | |
+| ZALENIUM | https://opensource.zalando.com/zalenium/ | Line using zelenium : https://engineering.linecorp.com/ja/blog/detail/219 |
 
 ### Codeception Test
 | Title | Link | Etc |
