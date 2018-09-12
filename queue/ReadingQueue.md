@@ -148,6 +148,9 @@
 | How to scale Microservices with Message Queues, Spring Boot, and Kubernetes | https://medium.freecodecamp.org/how-to-scale-microservices-with-message-queues-spring-boot-and-kubernetes-f691b7ba3acf | |
 | Effectively communicate between Microservices | https://itnext.io/effectively-communicate-between-microservices-de7252ba2f3c | |
 | Agile Gone Wrong | https://productcoalition.com/agile-gone-wrong-725c3f0dd8c0 | |
+| Hystrix! API Gateway를 도와줘! | http://woowabros.github.io/experience/2017/08/21/hystrix-tunning.html | |
+| 카카오 광고 플랫폼 MSA 적용 사례 및 API Gateway와 인증 구현에 대한 소개 | https://mk.kakaocdn.net/dn/if-kakao/conf2018/카카오 광고 플랫폼 MSA 적용사례.pdf | |
+| 글로벌 게임 플랫폼에서 무정지, 무점검 서버 개발과 운영 사례 | https://mk.kakaocdn.net/dn/if-kakao/conf2018/fault_tolerant_no_maintenance_server_dev_ops_draft.v5.1.pdf |
 
 ### Software
 | Title | Link | Etc |
