@@ -240,6 +240,7 @@
 | 2018 개발자 추천 블로그 10선 | https://www.huskyhoochu.com/suggested-blogs | |
 | 초보 개발자를 위한 디버깅 방법 소개 | https://okky.kr/article/272227 | |
 | 문과 출신 개발자의 싱가폴 취업기 | https://brunch.co.kr/magazine/workingabroad | |
+| 앱스토어 1위를 하면서 배운 것 (feat. 사이드 프로젝트) | https://soojin.ro/blog/lessons-from-my-side-project | |
 
 ### Open Source
 | Title | Link | Etc |
