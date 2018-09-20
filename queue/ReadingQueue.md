@@ -156,6 +156,7 @@
 | 점진적인 레거시 웹 애플리케이션 개선 과정 | https://www.slideshare.net/arawnkr/ss-115339631 | |
 | 우린 Git-flow를 사용하고 있어요 | http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html | |
 | A successful Git branching model | https://nvie.com/posts/a-successful-git-branching-model/ | |
+| VIM 스크립트 사용기 | https://www.popit.kr/vim-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%AC%EC%9A%A9%EA%B8%B0/ | |
 
 ### Software
 | Title | Link | Etc |
