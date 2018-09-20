@@ -151,6 +151,11 @@
 | Hystrix! API Gateway를 도와줘! | http://woowabros.github.io/experience/2017/08/21/hystrix-tunning.html | |
 | 카카오 광고 플랫폼 MSA 적용 사례 및 API Gateway와 인증 구현에 대한 소개 | https://mk.kakaocdn.net/dn/if-kakao/conf2018/카카오 광고 플랫폼 MSA 적용사례.pdf | |
 | 글로벌 게임 플랫폼에서 무정지, 무점검 서버 개발과 운영 사례 | https://mk.kakaocdn.net/dn/if-kakao/conf2018/fault_tolerant_no_maintenance_server_dev_ops_draft.v5.1.pdf |
+| 한글라이즈 재제작기 | https://speakerdeck.com/sublee/remake-of-hangulize | |
+| Removing jQuery from GitHub.com frontend | https://githubengineering.com/removing-jquery-from-github-frontend/ | |
+| 점진적인 레거시 웹 애플리케이션 개선 과정 | https://www.slideshare.net/arawnkr/ss-115339631 | |
+| 우린 Git-flow를 사용하고 있어요 | http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html | |
+| A successful Git branching model | https://nvie.com/posts/a-successful-git-branching-model/ | |
 
 ### Software
 | Title | Link | Etc |
