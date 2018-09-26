@@ -247,6 +247,7 @@
 | 초보 개발자를 위한 디버깅 방법 소개 | https://okky.kr/article/272227 | |
 | 문과 출신 개발자의 싱가폴 취업기 | https://brunch.co.kr/magazine/workingabroad | |
 | 앱스토어 1위를 하면서 배운 것 (feat. 사이드 프로젝트) | https://soojin.ro/blog/lessons-from-my-side-project | |
+| 개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수 | https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html | |
 
 ### Open Source
 | Title | Link | Etc |
