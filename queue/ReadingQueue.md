@@ -157,6 +157,7 @@
 | 우린 Git-flow를 사용하고 있어요 | http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html | |
 | A successful Git branching model | https://nvie.com/posts/a-successful-git-branching-model/ | |
 | VIM 스크립트 사용기 | https://www.popit.kr/vim-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%AC%EC%9A%A9%EA%B8%B0/ | |
+| 리눅스 서버 60초안에 상황파악하기 | https://b.luavis.kr/server/linux-performance-analysis | |
 
 ### Software
 | Title | Link | Etc |
@@ -248,6 +249,7 @@
 | 문과 출신 개발자의 싱가폴 취업기 | https://brunch.co.kr/magazine/workingabroad | |
 | 앱스토어 1위를 하면서 배운 것 (feat. 사이드 프로젝트) | https://soojin.ro/blog/lessons-from-my-side-project | |
 | 개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수 | https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html | |
+| 나는 어떻게 오픈소스 커뮤니티를 통해 성장했나 | https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/ | |
 
 ### Open Source
 | Title | Link | Etc |
