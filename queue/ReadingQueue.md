@@ -250,6 +250,7 @@
 | 앱스토어 1위를 하면서 배운 것 (feat. 사이드 프로젝트) | https://soojin.ro/blog/lessons-from-my-side-project | |
 | 개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수 | https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html | |
 | 나는 어떻게 오픈소스 커뮤니티를 통해 성장했나 | https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/ | |
+| AMP Contributor Summit 후기 | https://medium.com/@euncho/amp-contributor-summit-%ED%9B%84%EA%B8%B0-192817670919 | | 
 
 ### Open Source
 | Title | Link | Etc |
