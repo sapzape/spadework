@@ -159,6 +159,7 @@
 | VIM 스크립트 사용기 | https://www.popit.kr/vim-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%AC%EC%9A%A9%EA%B8%B0/ | |
 | 리눅스 서버 60초안에 상황파악하기 | https://b.luavis.kr/server/linux-performance-analysis | |
 | REST 기반의 간단한 분산 트랜잭션 구현 - 1편 | https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8 | 1-4 시리즈 |
+| REST API: PUT VS POST | https://1ambda.github.io/javascripts/rest-api-put-vs-post/ | |
 
 ### Software
 | Title | Link | Etc |
@@ -252,6 +253,7 @@
 | 개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수 | https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html | |
 | 나는 어떻게 오픈소스 커뮤니티를 통해 성장했나 | https://blog.cometkim.kr/posts/mattermost-contribution/how-i-grow-up-with-mattermost-community/ | |
 | AMP Contributor Summit 후기 | https://medium.com/@euncho/amp-contributor-summit-%ED%9B%84%EA%B8%B0-192817670919 | | 
+| 알고리즘-문제풀이PS-시작하기 | http://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0 | |
 
 ### Open Source
 | Title | Link | Etc |
