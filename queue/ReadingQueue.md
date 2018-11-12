@@ -172,6 +172,8 @@
 | [번역] 해커처럼 블로깅하기 | http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr | |
 | How To Become Better Engineer | https://www.slideshare.net/charsyam2/how-to-become-better-engineer | |
 | 개발자를 위한 인프라 기초 총정리 | https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/ | |
+| 신규 포인트 시스템 전환기 #1 - 개발 단계 | http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html | |
+| 신규 포인트 시스템 전환기 #2 - 오픈 준비 단계 | http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html | |
 
 ### Software
 | Title | Link | Etc |
