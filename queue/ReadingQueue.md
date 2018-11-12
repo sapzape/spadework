@@ -169,6 +169,9 @@
 | 마이크로 서비스 아키텍쳐와 컨테이너 | http://bcho.tistory.com/1289 | |
 | 쿠버네티스 보안 Best Practice | http://bcho.tistory.com/1290 | |
 | 네이버 메인 페이지의 트래픽 처리 | https://d2.naver.com/helloworld/6070967 | |
+| [번역] 해커처럼 블로깅하기 | http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr | |
+| How To Become Better Engineer | https://www.slideshare.net/charsyam2/how-to-become-better-engineer | |
+| 개발자를 위한 인프라 기초 총정리 | https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/ | |
 
 ### Software
 | Title | Link | Etc |
