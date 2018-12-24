@@ -172,6 +172,11 @@
 | [번역] 해커처럼 블로깅하기 | http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr | |
 | How To Become Better Engineer | https://www.slideshare.net/charsyam2/how-to-become-better-engineer | |
 | 개발자를 위한 인프라 기초 총정리 | https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/ | |
+| 신규 포인트 시스템 전환기 #1 - 개발 단계 | http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html | |
+| 신규 포인트 시스템 전환기 #2 - 오픈 준비 단계 | http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html | |
+| 레거시 브라우저에만 레거시 코드를 남기는 현명한 번들링 방법 | https://github.com/nhnent/fe.javascript/wiki/%23182:-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EB%A7%8C-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%82%A8%EA%B8%B0%EB%8A%94-%ED%98%84%EB%AA%85%ED%95%9C-%EB%B2%88%EB%93%A4%EB%A7%81-%EB%B0%A9%EB%B2%95 | |
+| A Netflix Web Performance Case Study | https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9 | |
+| Cross shard transactions at 10 million requests per second | https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/ | |
 
 ### Software
 | Title | Link | Etc |
